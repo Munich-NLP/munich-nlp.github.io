@@ -16,3 +16,4 @@ We will take a dive into the field of evaluation of generated text where Philipp
 Evaluation of generated text remains a significant issue. Recently introduced model-based metrics have shown promising results compared to n-gram-based metrics like BLEU, yet they still suffer severe drawbacks. 
 
 ### Speaker
+Philipp Koch
