@@ -1,0 +1,47 @@
+{{ define "main"}}
+  <main id="main">
+
+    <div class="container">
+      <div id="{{ .Params.id }}"></div>
+      {{ if .Site.Params.showSubheader }}
+        {{ partial "home/subheader.html" . }}
+      {{ end }}
+      
+        {{ range .Site.Sections }}
+            {{ range .Sections.ByWeight }}
+                {{ $stype := .Type}}
+                {{ if (or (and (eq $stype "upcomingevents") (.Site.Params.showUpcomingEvents))
+                          (and (eq $stype "pastevents") (.Site.Params.showPastEvents))
+                          (and (eq $stype "partners") (.Site.Params.showPartners))
+                          (and (eq $stype "organizers") (.Site.Params.showOrganizers))
+                          (eq $stype "single")) }}
+                     <div id="{{ .Params.id }}"></div>
+                     <div class="row section featured topspace">
+                       <h2 class="section-title">
+                         <span>{{.Title}}</span>
+                       </h2>
+                       
+                     {{ if eq $stype "upcomingevents" }}
+                       {{ partial "home/upcomingevents.html" . }}
+
+                     {{ else if eq $stype "pastevents" }}
+                       {{ partial "home/pastevents.html" . }}
+
+                     {{ else if eq $stype "partners" }}
+                       {{ partial "home/partners.html" . }}
+
+                     {{ else if eq $stype "organizers" }}
+                       {{ partial "home/organizers.html" . }}
+
+                     {{ else if eq $stype "single"  }}
+                       {{ partial "home/single.html" . }}
+
+                     {{ end }}
+                </div>	<!-- /section -->
+              {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>	<!-- /container -->
+  </main>
+
+{{ end }}

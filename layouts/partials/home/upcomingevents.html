@@ -1,0 +1,17 @@
+{{ if eq (len .Data.Pages) 0 }}
+<div class="announcement">We currently have no events planned. Stay tuned! </div>
+{{ else }}
+{{ range where .Data.Pages "Section" .Section }}
+<div class="wrapper">
+  <div class="img">
+    <img src={{ .Params.image }} alt="round">
+  </div>
+  <div class="event">
+    <h3>{{ .Params.title }}</h3>
+    <p>{{ .Params.summary }}</p>
+    <p><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p>
+    <!-- <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p> -->
+  </div>
+</div>
+{{ end }}
+{{ end }}
