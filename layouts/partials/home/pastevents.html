@@ -5,7 +5,11 @@
   </div>
   <div class="event">
     <h3>{{ .Params.title }}</h3>
+    {{ if .Params.recording }}
+    <p>{{ .Params.summary }} | <a href="{{ .Params.recording }}">Youtube Recording</a></p>
+    {{ else }}
     <p>{{ .Params.summary }}</p>
+    {{ end }}
     <p><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p>
     <!-- <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p> -->
   </div>

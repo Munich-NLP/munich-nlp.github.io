@@ -4,14 +4,14 @@ title = ""
 theme = "hugo-initio"
 
 [params]
-    name = "Munich 🥨 NLP"
+    name = "Munich NLP"
     description = ""
     email = ""
     phone = ""
     address = ""
     year = 2022
-    avatar = ""
-    avatarclass = "circle"
+    avatar = "images/pretzel.webp"
+    avatarclass = ""
     background = ""
     banner = ""
     favicon = ""

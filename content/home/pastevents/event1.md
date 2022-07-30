@@ -1,10 +1,10 @@
 +++
 title = "Pre-trained language models evaluating themselves - A comparative study"
 image = "images/workshop-negative-results-nlp.png"
-summary = "Speaker: Philipp Koch"
+summary = "Speaker: Philipp Koch | Jun 18, 2022"
+recording = ""
 url = "/events/pretrained-language-models-evaluating-themselves"
 date = "2022-06-18"
-speaker = ""
 +++
 
 <!--more-->
@@ -16,3 +16,7 @@ We will take a dive into the field of evaluation of generated text where Philipp
 Evaluation of generated text remains a significant issue. Recently introduced model-based metrics have shown promising results compared to n-gram-based metrics like BLEU, yet they still suffer severe drawbacks. 
 
 ### Speaker
+
+![Philipp Koch ><](/images/philipp-koch.jpg)
+
+Philipp Koch is one of the founders of Munich NLP. He is currently studying M.Sc. Statistics and Data Science at LMU.
