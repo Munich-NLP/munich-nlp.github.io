@@ -2,7 +2,7 @@
 <div class="announcement">We currently have no events planned. Stay tuned! 😬 </div>
 {{ else }}
 {{ range where .Data.Pages "Section" .Section }}
-<div class="wrapper">
+<div class="wrapper" id="{{ .Params.id }}">
   <div class="img">
     <img src={{ .Params.image }} alt="round">
   </div>

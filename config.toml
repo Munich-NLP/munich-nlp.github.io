@@ -1,6 +1,6 @@
 baseURL = "https://munich-nlp.github.io/"
 languageCode = "en"
-title = ""
+title = "Munich NLP"
 theme = "hugo-initio"
 
 [params]
