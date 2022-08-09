@@ -1,10 +1,10 @@
 +++ 
 title = "Life after BERT: What do Other Muppets Understand about Language?"
-image = "Munich-NLP/munich-nlp.github.io/static/images/life-after.jpeg" 
+image = "images/life-after.jpeg" 
 summary = "Speaker: Vladislav Lialin | May 27, 2022" 
 recording = "" 
 url = "/events/life-after-bert" 
-date = "2022-06-18" 
+date = "2022-05-27" 
 +++
 
 <!--more-->
