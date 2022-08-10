@@ -1,7 +1,7 @@
 +++
 title = "A Gentle Introduction to GPT-3 and Large Language Models"
 image = "images/giraffe.png"
-summary = "Speaker: Sandra Kublik | Aug 11, 2022"
+summary = "Speaker: Sandra Kublik | Aug 18, 2022"
 recording = ""
 url = "/events/a-gentle-introduction-to-gpt3"
 +++
