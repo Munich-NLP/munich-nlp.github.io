@@ -1,1 +1,1 @@
-# munich-nlp.github.io
+# https://munich-nlp.github.io
