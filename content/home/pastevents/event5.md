@@ -4,6 +4,7 @@ image = "images/semantic-search.png"
 summary = "Speaker: Nils Reimers | Sep 22, 2022"
 recording = ""
 url = "/events/next-generation-of-semantic-search"
+date = "2022-09-22"
 +++
 
 <!--more-->
