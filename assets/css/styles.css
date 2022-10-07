@@ -230,7 +230,7 @@ a:hover {
 .wrapper .event {
   flex: 3 0px;
   order: 1;
-  margin: 3%;
+  margin: 5%;
 }
 
 .wrapper .img {
@@ -259,6 +259,7 @@ img[alt$="><"] {
 
 img[alt$="round"]{
   border-radius: 50%;
+  margin: 10%;
 }
 
 .announcement{
