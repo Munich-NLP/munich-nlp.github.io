@@ -296,12 +296,20 @@ img[alt$="round"]{
   border-radius: 50%
 }
 
-#head img.img-rounded {
+img.img-rounded {
   border-radius: 20px;
 }
 
 #head img.img-square {
   border-radius: none;
+}
+
+#head img.img-noborder {
+  border-radius: 0%;
+  width: 30%;
+  height: 30%;
+  border: 0;
+  border-color: red;
 }
 
 #head .title {
