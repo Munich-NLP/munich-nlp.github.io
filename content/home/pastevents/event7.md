@@ -2,17 +2,14 @@
 title = "Simplifying MLOps Stack"
 image = "images/mlops-stack.png"
 summary = "Speaker: Andrey Cheptsov | Oct 13, 2022 18:00"
-recording = ""
+recording = "https://www.youtube.com/watch?v=vdDdX-xf_mM&ab_channel=Munich%F0%9F%A5%A8NLP"
 url = "/events/simplifying-mlops-stack"
+date = "2022-10-13"
 +++
 
 <!--more-->
 
-![Simplifying MLOps Stack ><](/images/mlops-stack.png)
-
-
-### Join our Discord to participate!
-https://discord.com/invite/BgFaZgZ38N
+{{< youtube vdDdX-xf_mM >}}
 
 
 ### About this event
