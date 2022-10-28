@@ -22,4 +22,4 @@ In this talk, Nils will give an introduction to the next generation of semantic 
 
 ![Nils Reimers ><](/images/nils-reimers.jpeg)
 
-Nils Reimers is an expert on search relevance using pre-trained transformer networks. In 2018, he authored and open-sourced the popular sentence-transformers.
+**Nils Reimers** is an expert on search relevance using pre-trained transformer networks. In 2018, he authored and open-sourced the popular sentence-transformers.

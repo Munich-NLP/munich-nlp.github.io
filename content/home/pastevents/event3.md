@@ -19,4 +19,4 @@ Lewis Tunstall will talk about optimization of transformer models. He will cover
 
 ![Lewis Tunstall ><](/images/lewis-tunstall.jpeg)
 
-Lewis Tunstall is a Machine Learning Engineer at Hugging Face. He is responsible for implementing the tooling to conduct large-scale evaluations of the 10,000+ models and 1,000+ datasets hosted on the Hugging Face Hub. Recently, he published a book called "Natural Language Processing with Transformers".
+**Lewis Tunstall** is a Machine Learning Engineer at Hugging Face. He is responsible for implementing the tooling to conduct large-scale evaluations of the 10,000+ models and 1,000+ datasets hosted on the Hugging Face Hub. Recently, he published a book called "Natural Language Processing with Transformers".

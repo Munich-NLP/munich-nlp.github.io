@@ -20,4 +20,4 @@ Running ML workflows involves a lot of hurdles, especially if you don’t have a
 
 ![Andrey Cheptsov ><](/images/andrey-cheptsov.jpeg)
 
-Andrey Cheptsov is the creator of dstack, a very lightweight open-source utility that allows to provision ML infra via command-line. He is passionate about open-source and developer tools for AI. Previously, Andrey worked at JetBrains with the PyCharm team.
+**Andrey Cheptsov** is the creator of dstack, a very lightweight open-source utility that allows to provision ML infra via command-line. He is passionate about open-source and developer tools for AI. Previously, Andrey worked at JetBrains with the PyCharm team.

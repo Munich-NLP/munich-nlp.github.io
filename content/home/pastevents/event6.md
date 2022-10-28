@@ -19,4 +19,4 @@ In this talk, Lucas will take a deep dive into the Transformer architecture and 
 
 ![Lucas Beyer ><](/images/lucas-beyer.jpeg)
 
-Lucas grew up in Belgium wanting to make video games and their AI, went on to study mechanical engineering at RWTH Aachen in Germany, did a PhD in robotic perception/computer vision there too, and is now researching representation learning and vision backbones at Google Brain in Zürich.
+**Lucas Beyer** grew up in Belgium wanting to make video games and their AI, went on to study mechanical engineering at RWTH Aachen in Germany, did a PhD in robotic perception/computer vision there too, and is now researching representation learning and vision backbones at Google Brain in Zürich.

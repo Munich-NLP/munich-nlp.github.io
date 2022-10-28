@@ -19,4 +19,4 @@ Abubakar Abid will hold an online tutorial covering practical tools for modern M
 
 ![Abubakar Abid ><](/images/abubakar-abid.jpeg)
 
-Abubakar Abid is the founder of [Gradio](https://www.gradio.dev) and currently ML Team Lead at HuggingFace. He holds a PhD from Stanford University, in which his research focus was building reliable deep learning models with applications to biology and medicine.
+**Abubakar Abid** is the founder of [Gradio](https://www.gradio.dev) and currently ML Team Lead at HuggingFace. He holds a PhD from Stanford University, in which his research focus was building reliable deep learning models with applications to biology and medicine.

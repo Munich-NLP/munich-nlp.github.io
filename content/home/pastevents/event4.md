@@ -19,4 +19,4 @@ Tristan Behrens will present how Language Models can be used to compose music, t
 
 ![Tristan Behrens ><](/images/tristan-behrens.jpeg)
 
-Tristan Behrens is an expert in AI, an AI composer, and an AI educator. He has an extensive track record in successful Deep Learning projects. His biggest focus is Deep Neural Networks for composition. He has published several albums of music composed with the computer.
+**Tristan Behrens** is an expert in AI, an AI composer, and an AI educator. He has an extensive track record in successful Deep Learning projects. His biggest focus is Deep Neural Networks for composition. He has published several albums of music composed with the computer.

@@ -19,4 +19,4 @@ Evaluation of generated text remains a significant issue. Recently introduced mo
 
 ![Philipp Koch ><](/images/philipp-koch.jpg)
 
-Philipp Koch is one of the founders of Munich NLP. He is currently studying M.Sc. Statistics and Data Science at LMU.
+**Philipp Koch** is one of the founders of Munich NLP. He is currently studying M.Sc. Statistics and Data Science at LMU.

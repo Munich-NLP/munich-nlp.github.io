@@ -19,4 +19,4 @@ Evaluation of generated text remains a significant issue. Recently-introduced mo
 
 ![Vladislav Lialin ><](/images/vlad.jpeg)
 
-Vladislav Lialin is a computer science PhD student at University of Massachusetts Lowell advised by Anna Rumshisky. His research areas include continual learning for large language models, multimodal learning, and model analysis. In particular, he is hyping large-scale models and thinks that every task is a language modeling task if you try hard enough. He is currently interning at Amazon Alexa AI.
+**Vladislav Lialin** is a computer science PhD student at University of Massachusetts Lowell advised by Anna Rumshisky. His research areas include continual learning for large language models, multimodal learning, and model analysis. In particular, he is hyping large-scale models and thinks that every task is a language modeling task if you try hard enough. He is currently interning at Amazon Alexa AI.
