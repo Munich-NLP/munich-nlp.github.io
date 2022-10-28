@@ -1,25 +1,30 @@
 +++
-title = "NLP for Social Good: A Survey with Use-Cases"
-image = "images/nlp-for-social-good.png"
-summary = "Speaker: Daryna Dementieva | Oct 26, 2022 18:00"
-recording = ""
-url = "/events/nlp-for-social-good-survey"
+title = "Tricks and Tools from NLP Land"
+image = "images/tricks-and-tools-from-nlp-land.png"
+summary = "Speaker: Vincent D. Warmerdam | Nov 10, 2022 19:00"
+recording = "https://www.youtube.com/watch?v=B-LBo-w4CrA"
+url = "/events/tricks-and-tools-from-nlp-land"
+
 +++
 
 <!--more-->
 
-![NLP for Social Good ><](/images/nlp-for-social-good.png)
+![Tricks and Tools from NLP Land ><](/images/tricks-and-tools-from-nlp-land.png)
 
-### Join our Discord to participate!
-https://discord.com/invite/BgFaZgZ38N
+### Join this Zoom link to participate!
+https://lmu-munich.zoom.us/j/91690314416?pwd=UktseTVjNWJTYlZxUFcwTGVzSmx3dz09
 
 
 ### About this event
 
-Today, a large spectrum of NLP models have been developed covering various fields ranging from already-usual-for-everyday web search, to helpers for programmers to write code. However, quite a few of the modern NLP technologies were explored in terms of their application for social good.
+What if we did not use transformers? Can we still do NLP? Yes. 
+
+In this talk, I will discuss some effective tricks in NLP that don't require a transformer or a GPU. It will be a collection of techniques that I have seen work in the field including some tricks with embeddings, annotation techniques, tf-idf, subword embeddings and multi-word embeddings. Many of these techniques can also be used outside of the realm of NLP and most of the topics will be discussed via a live demo. 
+
+If there is time, I might also show a very cool fine-tuning trick!
 
 ### Speaker
 
-![Daryna Dementieva ><](/images/daryna-dementieva.png)
+![Vincent Warmerdam ><](/images/vincent-warmerdam.jpg)
 
-Daryna Dementieva is a post-doc researcher at Social Research Computing Lab in TUM. Previously, she finished her PhD in Skoltech University under the supervision of Prof. Alexander Panchenko with the topic "Methods for Fighting Harmful Multilingual Textual Content". In general, Daryna's research is connected with different applications of NLP for Social Good. During her PhD, she worked with topics of fake news detection and text detoxification. Moreover, she participated in several competitions and hackathons wrapping obtained raw NLP models into product demonstrations. Daryna would like to inspire with her studies research and development of NLP-based products for real-life applications with positive impact.
+Vincent Warmerdam worked as an engineer, consultant, researcher, team lead, and educator in the past. He currently works as a Machine Learning Engineer at Explosion. He also maintains many small open source packages, including many scikit-learn related plugins. He blogs over at koaning.io and he also maintains an increasingly popular free learning resource over at calmcode.io
