@@ -312,6 +312,15 @@ img.img-rounded {
   border-color: red;
 }
 
+@media only screen and (max-width: 600px) {
+  #head img.img-noborder {
+    border-radius: 0%;
+    width: 80%;
+    border: 0;
+    border-color: red;
+  }
+}
+
 #head .title {
   font-family: "Roboto Mono", Georgia, serif;
   font-size: 49px;
