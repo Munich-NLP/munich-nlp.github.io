@@ -4,12 +4,12 @@ image = "images/tricks-and-tools-from-nlp-land.png"
 summary = "Speaker: Vincent D. Warmerdam | Nov 10, 2022 19:00"
 recording = "https://www.youtube.com/watch?v=B-LBo-w4CrA"
 url = "/events/tricks-and-tools-from-nlp-land"
-
+date = "2022-11-10"
 +++
 
 <!--more-->
 
-![Tricks and Tools from NLP Land ><](/images/tricks-and-tools-from-nlp-land.png)
+<!-- ![Tricks and Tools from NLP Land ><](/images/tricks-and-tools-from-nlp-land.png) -->
 
 ### Join this Zoom link to participate!
 https://lmu-munich.zoom.us/j/91690314416?pwd=UktseTVjNWJTYlZxUFcwTGVzSmx3dz09
