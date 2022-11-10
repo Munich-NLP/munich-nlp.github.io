@@ -1,7 +1,7 @@
 +++
 title = "Next Generation of Semantic Search"
 image = "images/semantic-search.png"
-summary = "Speaker: Nils Reimers | Sep 22, 2022"
+summary = "Speaker: Dr. Nils Reimers | Sep 22, 2022"
 recording = "https://www.youtube.com/watch?v=Y0g_ENURKFk&ab_channel=Munich%F0%9F%A5%A8NLP"
 url = "/events/next-generation-of-semantic-search"
 date = "2022-09-22"

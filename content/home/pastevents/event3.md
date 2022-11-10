@@ -1,7 +1,7 @@
 +++
 title = "Accelerating Transformers in Production"
 image = "images/ev_nlp_acc_transf_lewis_tunstall/theme_photo.png"
-summary = "Speaker: Lewis Tunstall | Jun 29, 2022"
+summary = "Speaker: Lewis Tunstall, PhD | Jun 29, 2022"
 recording = "https://www.youtube.com/watch?v=CAbHbm9769Q&t=1s&ab_channel=Munich%F0%9F%A5%A8NLP"
 url = "/events/accelerating-transformers-in-production"
 date = "2022-06-29"

@@ -1,7 +1,7 @@
 +++
 title = "A Hands-on Tutorial of the Hugging Face Hub and Gradio"
 image = "images/gradio.jpeg"
-summary = "Speaker: Abubakar Abid | Jun 23, 2022"
+summary = "Speaker: Abubakar Abid, PhD | Jun 23, 2022"
 recording = "https://www.youtube.com/watch?v=EazTFBSpdns&ab_channel=Munich%F0%9F%A5%A8NLP"
 url = "/events/hands-on-tutorial-huggingface-gradio"
 date = "2022-06-23"
