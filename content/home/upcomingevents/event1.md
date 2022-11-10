@@ -1,26 +1,27 @@
 +++
-title = "Challenges and Opportunities in NLP for Under-Represented Languages"
-image = "images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png"
-summary = "Speaker: Sebastian Ruder, PhD | Nov 22, 2022"
+title = "Open Source Teaching Resources for NLP"
+image = "images/ev_nlp_teaching_mat_ass/teaching_stock.png"
+summary = "Speaker: Dr. Matthias Aßenmacher | Nov 23, 2022"
 recording = ""
-url = "/events/challenges-and-opportunities-in-nlp-for-under-represented-languages"
+url = "/events/open-source-teaching-resources-for-nlp"
 +++
 
 <!--more-->
 
-![Challenges and Opportunities in NLP for Under-Represented Languages ><](/images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png)
+![Open Source Teaching Resources for NLP ><](/images/ev_nlp_teaching_mat_ass/teaching_stock.png)
 
 ### Join our Discord to participate!
-https://discord.gg/6fWEcUyW?event=1037740834122104895
+https://discord.gg/XWjVzYvjAu?event=1037378721369301086
 
 
 ### About this event
 
-Natural language processing (NLP) technology has seen tremendous improvements in recent years but most of these successes have been concentrated in languages with large amounts of data. In this talk, I will discuss challenges and potential solutions on the way to scaling NLP to more of the world's 7000 languages. In particular, I will highlight recent progress in NLP for African languages and present methods that are applicable to languages with limited data such as employing alternative sources of data and multi-modal information.
+Key technologies, like e.g. NLP, crucially depend on well-educated people to conduct sound and innovative research. While the quality and the availability of teaching resources plays a central role here, it is still not super common to (collaboratively) create and share them across institutions. In this talk, I will cover three main aspects:
+First, the development of open source educational resources (OSER) within the scope of the i2ml lecture at the SLDS chair (LMU Munich) will be showcased. Second, I will cover the latest developments in NLP in order to show the necessity of creating high quality OSER for this field to equip undergrads / young researchers with the methodological background to eventually perform good research. Third, I will briefly introduce a joint project between two chairs from LMU (SLDS, CIS) and Ben Roth's chair (UNIVIE) with the goal to create OSER for NLP following the blueprint of i2ml.
 
 
 ### Speaker
 
-![Sebastian Ruder ><](https://ruder.io/content/images/2019/02/new_profile_photo_square-1.jpg)
+![Matthias Aßenmacher ><](/images/ev_nlp_teaching_mat_ass/assenmacher.png)
 
-Sebastian is a research scientist at Google based in Berlin, Germany working on natural language processing (NLP) for under-represented languages. Before that he was a research scientist at DeepMind. He completed his PhD in Natural Language Processing and Deep Learning at the Insight Research Centre for Data Analytics, while working as a research scientist at Dublin-based text analytics startup AYLIEN. Previously, he studied Computational Lin 
+Matthias is a postdoctoral researcher at the Chair of Statistical Learning and Data Science (Dept. of Statistics, LMU) and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). He obtained his bachelor’s degree in Economics from LMU in 2014, afterwards he turned to Statistics (with a focus on social and economic studies) and obtained his Master’s degree in 2017 (also from LMU). In October 2021 he finished his PhD at the working group Methods for Missing Data, Model Selection and Model Averaging under the supervision of Prof. Dr. Christian Heumann with a focus on Natural Language Processing. Further he is one of the co-founders of the [Open Science Initiative in Statistics (OSIS)](https://www.statistik.uni-muenchen.de/institut/osis/index.html). 

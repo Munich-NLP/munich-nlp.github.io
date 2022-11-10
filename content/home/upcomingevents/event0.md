@@ -1,30 +1,26 @@
 +++
-title = "Tricks and Tools from NLP Land"
-image = "images/tricks-and-tools-from-nlp-land.png"
-summary = "Speaker: Vincent D. Warmerdam | Nov 10, 2022 19:00"
-recording = "https://www.youtube.com/watch?v=B-LBo-w4CrA"
-url = "/events/tricks-and-tools-from-nlp-land"
-
+title = "Challenges and Opportunities in NLP for Under-Represented Languages"
+image = "images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png"
+summary = "Speaker: Sebastian Ruder, PhD | Nov 22, 2022"
+recording = ""
+url = "/events/challenges-and-opportunities-in-nlp-for-under-represented-languages"
 +++
 
 <!--more-->
 
-![Tricks and Tools from NLP Land ><](/images/tricks-and-tools-from-nlp-land.png)
+![Challenges and Opportunities in NLP for Under-Represented Languages ><](/images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png)
 
-### Join this Zoom link to participate!
-https://lmu-munich.zoom.us/j/91690314416?pwd=UktseTVjNWJTYlZxUFcwTGVzSmx3dz09
+### Join our Discord to participate!
+https://discord.gg/6fWEcUyW?event=1037740834122104895
 
 
 ### About this event
 
-What if we did not use transformers? Can we still do NLP? Yes. 
+Natural language processing (NLP) technology has seen tremendous improvements in recent years but most of these successes have been concentrated in languages with large amounts of data. In this talk, I will discuss challenges and potential solutions on the way to scaling NLP to more of the world's 7000 languages. In particular, I will highlight recent progress in NLP for African languages and present methods that are applicable to languages with limited data such as employing alternative sources of data and multi-modal information.
 
-In this talk, Vincent will discuss some effective tricks in NLP that don't require a transformer or a GPU. It will be a collection of techniques that he has seen work in the field including some tricks with embeddings, annotation techniques, tf-idf, subword embeddings, and multi-word embeddings. Many of these techniques can also be used outside of the realm of NLP and most of the topics will be discussed via a live demo. 
-
-If there is time, Vincent might also show a very cool fine-tuning trick!
 
 ### Speaker
 
-![Vincent Warmerdam ><](/images/vincent-warmerdam.jpg)
+![Sebastian Ruder ><](https://ruder.io/content/images/2019/02/new_profile_photo_square-1.jpg)
 
-**Vincent Warmerdam** worked as an engineer, consultant, researcher, team lead, and educator in the past. He currently works as a Machine Learning Engineer at Explosion. He also maintains many small open source packages, including many scikit-learn related plugins. He blogs over at koaning.io and he also maintains an increasingly popular free learning resource over at calmcode.io
+Sebastian is a research scientist at Google based in Berlin, Germany working on natural language processing (NLP) for under-represented languages. Before that he was a research scientist at DeepMind. He completed his PhD in Natural Language Processing and Deep Learning at the Insight Research Centre for Data Analytics, while working as a research scientist at Dublin-based text analytics startup AYLIEN. Previously, he studied Computational Lin 
