@@ -1,7 +1,7 @@
 +++
 title = "Challenges and Opportunities in NLP for Under-Represented Languages"
 image = "images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png"
-summary = "Speaker: Sebastian Ruder | November 22, 2022"
+summary = "Speaker: Sebastian Ruder, PhD | Nov 22, 2022"
 recording = ""
 url = "/events/challenges-and-opportunities-in-nlp-for-under-represented-languages"
 +++

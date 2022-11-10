@@ -1,7 +1,7 @@
 +++
 title = "Open Source Teaching Resources for NLP"
 image = "images/ev_nlp_teaching_mat_ass/teaching_stock.png"
-summary = "Speaker: Matthias Aßenmacher | November 23, 2022"
+summary = "Speaker: Dr. Matthias Aßenmacher | Nov 23, 2022"
 recording = ""
 url = "/events/open-source-teaching-resources-for-nlp"
 +++
