@@ -1,18 +1,17 @@
 +++
-title = "Open Source Teaching Resources for NLP"
-image = "images/ev_nlp_teaching_mat_ass/teaching_stock.png"
-summary = "Speaker: Dr. Matthias Aßenmacher | Nov 23, 2022"
+title = "Open-Source Teaching Resources for NLP"
+image = "images/teaching_stock.png"
+summary = "Speaker: Matthias Aßenmacher | Nov 23, 2022"
 recording = ""
 url = "/events/open-source-teaching-resources-for-nlp"
 +++
 
 <!--more-->
 
-![Open Source Teaching Resources for NLP ><](/images/ev_nlp_teaching_mat_ass/teaching_stock.png)
+![Open Source Teaching Resources for NLP ><](/images/teaching_stock.png)
 
-### Join our Discord to participate!
-https://discord.gg/XWjVzYvjAu?event=1037378721369301086
-
+### Join this Zoom link to participate!
+https://lmu-munich.zoom.us/j/96127621735?pwd=QzZpbFplSnVCUE9MRFJNdW0rZTQyUT09
 
 ### About this event
 
@@ -22,6 +21,6 @@ First, the development of open source educational resources (OSER) within the sc
 
 ### Speaker
 
-![Matthias Aßenmacher ><](/images/ev_nlp_teaching_mat_ass/assenmacher.png)
+![Matthias Aßenmacher ><](/images/assenmacher.png)
 
-Matthias is a postdoctoral researcher at the Chair of Statistical Learning and Data Science (Dept. of Statistics, LMU) and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). He obtained his bachelor’s degree in Economics from LMU in 2014, afterwards he turned to Statistics (with a focus on social and economic studies) and obtained his Master’s degree in 2017 (also from LMU). In October 2021 he finished his PhD at the working group Methods for Missing Data, Model Selection and Model Averaging under the supervision of Prof. Dr. Christian Heumann with a focus on Natural Language Processing. Further he is one of the co-founders of the [Open Science Initiative in Statistics (OSIS)](https://www.statistik.uni-muenchen.de/institut/osis/index.html). 
+**Matthias Aßenmacher** is a postdoctoral researcher at the Chair of Statistical Learning and Data Science (Dept. of Statistics, LMU) and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). He obtained his Bachelor’s degree in Economics from LMU in 2014, afterwards he turned to Statistics (with a focus on social and economic studies) and obtained his Master’s degree in 2017 (also from LMU). In October 2021, he finished his PhD at the working group Methods for Missing Data, Model Selection and Model Averaging under the supervision of Prof. Dr. Christian Heumann with a focus on Natural Language Processing. Further, he is one of the co-founders of the [Open Science Initiative in Statistics (OSIS)](https://www.statistik.uni-muenchen.de/institut/osis/index.html).
