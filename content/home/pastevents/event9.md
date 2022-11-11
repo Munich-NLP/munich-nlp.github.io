@@ -11,9 +11,7 @@ date = "2022-11-10"
 
 <!-- ![Tricks and Tools from NLP Land ><](/images/tricks-and-tools-from-nlp-land.png) -->
 
-### Join this Zoom link to participate!
-https://lmu-munich.zoom.us/j/91690314416?pwd=UktseTVjNWJTYlZxUFcwTGVzSmx3dz09
-
+{{< youtube sjiASMMbHao >}}
 
 ### About this event
 
