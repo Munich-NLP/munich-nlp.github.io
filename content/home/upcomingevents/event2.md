@@ -10,8 +10,8 @@ url = "/events/open-source-teaching-resources-for-nlp"
 
 ![Open Source Teaching Resources for NLP ><](/images/teaching_stock.png)
 
-### Join this Zoom link to participate!
-https://lmu-munich.zoom.us/j/96127621735?pwd=QzZpbFplSnVCUE9MRFJNdW0rZTQyUT09
+### Join our Discord to participate!
+https://discord.gg/xzkNveF8?event=1037740834122104895
 
 ### About this event
 
