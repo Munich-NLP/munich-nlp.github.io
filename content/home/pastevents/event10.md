@@ -1,7 +1,7 @@
 +++
 title = " PyData x MunichNLP Vol. 1"
 image = "images/pydata_event1.png"
-summary = "Speaker: Egor Labintcev & Réne Brunner | Nov 17, 2022 18:00-22:00"
+summary = "Speaker: Egor Labintcev & Nikita Iserson | Nov 17, 2022 18:00-22:00"
 recording = ""
 url = "/events/pydata-munichnlp-vol1"
 date = "2022-11-17"
@@ -30,7 +30,7 @@ We have exciting talks from two amazing speakers:
 
    **Egor Labintcev** is currently a Senior ML Engineer in the RegTech industry. He builds various text engines ranging from low-resource extreme multi-label classification to ensemble-based text search in complex domains. His current research interest lies in modern retrieval approaches and NLP model interpretability.
 
-2. **Fraud Detection with Graph Features and GNN** by **Nikita Iserson**
+2. **Fraud Detection with Graph Features and GNN** by **Nikita Iserson, S&P Global**
 
    Identifying fraudulent behaviors is becoming increasingly more complex as technology advances and fraudsters constantly evolve new ways to exploit people, companies, and institutions. The complexity grows as companies introduce new channels, platforms, and devices for customers to engage with their brand, manage their accounts, and make transactions. Graph neural networks (GNN) are increasingly being used to identify suspicious behavior. GNNs can combine graph structures, such as email accounts, addresses, phone numbers, and purchasing behavior to find meaningful patterns and enhance fraud detection.
 

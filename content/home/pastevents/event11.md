@@ -22,5 +22,3 @@ Natural language processing (NLP) technology has seen tremendous improvements in
 ### Speaker
 
 ![Sebastian Ruder ><](https://ruder.io/content/images/2019/02/new_profile_photo_square-1.jpg)
-
-Sebastian is a research scientist at Google based in Berlin, Germany working on natural language processing (NLP) for under-represented languages. Before that he was a research scientist at DeepMind. He completed his PhD in Natural Language Processing and Deep Learning at the Insight Research Centre for Data Analytics, while working as a research scientist at Dublin-based text analytics startup AYLIEN. Previously, he studied Computational Lin 
