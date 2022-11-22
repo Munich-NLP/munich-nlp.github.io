@@ -11,7 +11,7 @@ url = "/events/open-source-teaching-resources-for-nlp"
 ![Open Source Teaching Resources for NLP ><](/images/teaching_stock.png)
 
 ### Register
-Join our ![Discord](https://discord.gg/xzkNveF8?event=1037740834122104895) to participate!
+Join our [Discord](https://discord.gg/xzkNveF8?event=1037740834122104895) to participate!
 
 ### About this event
 
