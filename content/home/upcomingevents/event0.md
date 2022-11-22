@@ -1,34 +1,26 @@
 +++
-title = " PyData x MunichNLP Vol. 1"
-image = "images/pydata_event1.png"
-summary = "Speaker: Egor Labintcev & Réne Brunner | Nov 17, 2022 18:00-22:00"
+title = "Challenges and Opportunities in NLP for Under-Represented Languages"
+image = "images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png"
+summary = "Speaker: Sebastian Ruder, PhD | Nov 22, 2022 18:00-19:30"
 recording = ""
-url = "/events/pydata-munichnlp-vol1"
+url = "/events/challenges-and-opportunities-in-nlp-for-under-represented-languages"
 +++
 
 <!--more-->
 
-![PyData x MunichNLP Vol. 1 ><](/images/pydata_event1.png)
+![Challenges and Opportunities in NLP for Under-Represented Languages ><](/images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png)
 
-### Location
+### Join our Discord to participate!
+https://discord.gg/6fWEcUyW?event=1037740834122104895
 
-JetBrains Munich. Register for the event [here](https://www.meetup.com/pydata-munchen/events/289404125/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref).
 
 ### About this event
 
-We are proud to present to you our first collaborative event with PyData! The event will be held in-person at JetBrains Munich, where we will be providing drinks and pizza. Register for the event [here](https://www.meetup.com/pydata-munchen/events/289404125/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref).
+Natural language processing (NLP) technology has seen tremendous improvements in recent years but most of these successes have been concentrated in languages with large amounts of data. In this talk, I will discuss challenges and potential solutions on the way to scaling NLP to more of the world's 7000 languages. In particular, I will highlight recent progress in NLP for African languages and present methods that are applicable to languages with limited data such as employing alternative sources of data and multi-modal information.
 
-We have exciting talks from two amazing speakers:
 
-1. **Practical Text Search or how to beat Elasticsearch (when you have to)** by **Egor Labintcev, Alyne GmbH**
+### Speaker
 
-   In this talk, Egor is going to guide you through the process of building a good text search engine when it’s hard to do so. He’ll start by defining what actually makes the text search good (it’s not that trivial), continue with a colourful description of the struggle the speaker went through while building a (relatively) good text search, and culminate by stating the best practices and approaches.
+![Sebastian Ruder ><](https://ruder.io/content/images/2019/02/new_profile_photo_square-1.jpg)
 
-   **Speaker**
-   ![Egor Labintcev ><](/images/egor-labintcev.jpg)
-
-   **Egor Labintcev** is currently a Senior ML Engineer in the RegTech industry. He builds various text engines ranging from low-resource extreme multi-label classification to ensemble-based text search in complex domains. His current research interest lies in modern retrieval approaches and NLP model interpretability.
-
-2. **Bot Detection in the Wild** by **Réne Brunner, Datamics GmbH**
-
-   More info coming soon.
+Sebastian is a research scientist at Google based in Berlin, Germany working on natural language processing (NLP) for under-represented languages. Before that he was a research scientist at DeepMind. He completed his PhD in Natural Language Processing and Deep Learning at the Insight Research Centre for Data Analytics, while working as a research scientist at Dublin-based text analytics startup AYLIEN. Previously, he studied Computational Lin 
