@@ -30,6 +30,12 @@ We have exciting talks from two amazing speakers:
 
    **Egor Labintcev** is currently a Senior ML Engineer in the RegTech industry. He builds various text engines ranging from low-resource extreme multi-label classification to ensemble-based text search in complex domains. His current research interest lies in modern retrieval approaches and NLP model interpretability.
 
-2. **Bot Detection in the Wild** by **Réne Brunner, Datamics GmbH**
+2. **Fraud Detection with Graph Features and GNN** by **Nikita Iserson**
 
-   More info coming soon.
+   Identifying fraudulent behaviors is becoming increasingly more complex as technology advances and fraudsters constantly evolve new ways to exploit people, companies, and institutions. The complexity grows as companies introduce new channels, platforms, and devices for customers to engage with their brand, manage their accounts, and make transactions. Graph neural networks (GNN) are increasingly being used to identify suspicious behavior. GNNs can combine graph structures, such as email accounts, addresses, phone numbers, and purchasing behavior to find meaningful patterns and enhance fraud detection.
+
+    **Speaker**
+   ![Nikita Iserson ><](/images/nikita-iserson.jpg)
+
+   **Nikita Iserson** is a Lead Machine Learning Engineer at S&P Global with over 10 years of experience in software engineering, data warehouse development, data analytics, and machine learning. He has built demand forecasting, network analysis, recommender systems, digital twins, and much more covering a wide range of industries, including telecom, retail, and banking.
+ 
