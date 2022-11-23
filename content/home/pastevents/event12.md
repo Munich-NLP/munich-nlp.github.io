@@ -14,10 +14,12 @@ date = "2022-11-23"
 ![Open Source Teaching Resources for NLP ><](/images/teaching_stock.png)
 
 
-### About this event
+### About this Event
 
 Key technologies, like e.g. NLP, crucially depend on well-educated people to conduct sound and innovative research. While the quality and the availability of teaching resources plays a central role here, it is still not super common to (collaboratively) create and share them across institutions. In this talk, I will cover three main aspects:
 First, the development of open source educational resources (OSER) within the scope of the i2ml lecture at the SLDS chair (LMU Munich) will be showcased. Second, I will cover the latest developments in NLP in order to show the necessity of creating high quality OSER for this field to equip undergrads / young researchers with the methodological background to eventually perform good research. Third, I will briefly introduce a joint project between two chairs from LMU (SLDS, CIS) and Ben Roth's chair (UNIVIE) with the goal to create OSER for NLP following the blueprint of i2ml.
+
+The presented course can be accessed [here](https://slds-lmu.github.io/dl4nlp/).
 
 
 ### Speaker
