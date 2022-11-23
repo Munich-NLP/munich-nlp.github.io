@@ -1,26 +1,42 @@
 +++
-title = "Open-Source Teaching Resources for NLP"
-image = "images/teaching_stock.png"
-summary = "Speaker: Dr. Matthias Aßenmacher | Nov 23, 2022 18:00-19:00"
+title = "PyData x MunichNLP Vol. 2"
+image = "images/pydata_event2.png"
+summary = "Speaker: Andrey Cheptsov & Hamza Tahir | Dec 8, 2022 18:00-22:00"
 recording = ""
-url = "/events/open-source-teaching-resources-for-nlp"
+url = "/events/pydata-munichnlp-vol2"
 +++
 
 <!--more-->
 
-![Open Source Teaching Resources for NLP ><](/images/teaching_stock.png)
+![PyData x MunichNLP Vol. 2 ><](/images/pydata_event2.png)
 
-### Register
-Join our [Discord](https://discord.gg/xzkNveF8?event=1037740834122104895) to participate!
+### Location
+
+JetBrains Munich. Register for the event [here](https://www.meetup.com/pydata-munchen/events/289404388/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref).
+
 
 ### About this event
 
-Key technologies, like e.g. NLP, crucially depend on well-educated people to conduct sound and innovative research. While the quality and the availability of teaching resources plays a central role here, it is still not super common to (collaboratively) create and share them across institutions. In this talk, I will cover three main aspects:
-First, the development of open source educational resources (OSER) within the scope of the i2ml lecture at the SLDS chair (LMU Munich) will be showcased. Second, I will cover the latest developments in NLP in order to show the necessity of creating high quality OSER for this field to equip undergrads / young researchers with the methodological background to eventually perform good research. Third, I will briefly introduce a joint project between two chairs from LMU (SLDS, CIS) and Ben Roth's chair (UNIVIE) with the goal to create OSER for NLP following the blueprint of i2ml.
+We are back with our second collaborative event with PyData (Vol. 2)! The event will be held in-person at JetBrains Munich, where we will be providing drinks and pizza. Register for the event [here](https://www.meetup.com/pydata-munchen/events/289404388/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref).
 
+We have exciting talks from two amazing speakers:
 
-### Speaker
+1. **Reproducible ML Workflows & Dev Environments with dstack** by **Andrey Cheptsov, dstack**
 
-![Matthias Aßenmacher ><](/images/assenmacher.png)
+    Building ML models is an iterative process. Let’s talk about tools and practices that help set up your dev environments and workflows for better productivity and reproducibility?
+    
+    As a bonus, we’ll have an overview of dstack, an open-source utility that simplifies the MLOps stack, and helps run ML workflows and dev environments in the cloud.
 
-**Dr. Matthias Aßenmacher** is a postdoctoral researcher at the Chair of Statistical Learning and Data Science (Dept. of Statistics, LMU) and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). He obtained his Bachelor’s degree in Economics from LMU in 2014, afterwards he turned to Statistics (with a focus on social and economic studies) and obtained his Master’s degree in 2017 (also from LMU). In October 2021, he finished his PhD at the working group Methods for Missing Data, Model Selection and Model Averaging under the supervision of Prof. Dr. Christian Heumann with a focus on Natural Language Processing. Further, he is one of the co-founders of the [Open Science Initiative in Statistics (OSIS)](https://www.statistik.uni-muenchen.de/institut/osis/index.html).
+    **Speaker**
+    ![Andrey Cheptsov ><](/images/andrey-cheptsov.jpeg)
+
+    **Andrey Cheptsov** is the creator of dstack. He is passionate about open-source and developer tools for AI. Previously, Andrey worked at JetBrains with the PyCharm team.
+
+2. **Why ML Should be Written as Pipelines from the Get-Go** by **Hamza Tahir, ZenML**
+
+    The mechanism through which ML propagates through an organisation from experimentation to production is key to its success. Oftentimes, there is a tendency to break this mechanism into a multi-step process, where experimentation workflows are siloed from their production counter-parts. This "Throw it over the wall" anti-pattern can stunt the velocity of ML teams. In this talk, we talk about why teams should unify this multi-stage process, and give data scientists more agency to exercise control over their production workflows. We'll also go through a practical demonstration with creating a unified MLOps pipeline with ZenML.
+
+    **Speaker**
+    ![Hamza Tahir ><](/images/hamza-tahir.jpg)
+
+    **Hamza Tahir** is a software developer turned ML engineer. An indie hacker by heart, he loves ideating, implementing, and launching data-driven products. His previous projects include PicHance, Scrilys, BudgetML, and you-tldr. Based on his learnings from deploying ML in production for predictive maintenance use-cases in his previous startup, he co-created ZenML, an open-source MLOps framework to build portable production-ready ML pipelines.
