@@ -2,16 +2,14 @@
 title = "Challenges and Opportunities in NLP for Under-Represented Languages"
 image = "images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png"
 summary = "Speaker: Sebastian Ruder, PhD | Nov 22, 2022 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=uk5ygedi1fQ"
 url = "/events/challenges-and-opportunities-in-nlp-for-under-represented-languages"
 date = "2022-11-22"
 +++
 
 <!--more-->
 
-<!-- {{< youtube  YT-CODE>}} -->
-
-![Challenges and Opportunities in NLP for Under-Represented Languages ><](/images/ev_nlp_under_rep_lang_seb_ruder/theme_photo.png)
+{{< youtube uk5ygedi1fQ >}}
 
 
 ### About this event
@@ -22,3 +20,5 @@ Natural language processing (NLP) technology has seen tremendous improvements in
 ### Speaker
 
 ![Sebastian Ruder ><](https://ruder.io/content/images/2019/02/new_profile_photo_square-1.jpg)
+
+**Sebastian Ruder** is a research scientist at Google based in Berlin, Germany working on natural language processing (NLP) for under-represented languages. Before that he was a research scientist at DeepMind. He completed his PhD in Natural Language Processing and Deep Learning at the Insight Research Centre for Data Analytics, while working as a research scientist at Dublin-based text analytics startup AYLIEN.
