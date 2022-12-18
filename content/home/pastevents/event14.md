@@ -4,6 +4,7 @@ image = "images/nlpmeetup.png"
 summary = "Speaker: Dr. Oliver Pfaffel, Dr. Matthias Kaper, Muhtasham Oblokulov | Dec 15, 2022 18:00-20:30"
 recording = ""
 url = "/events/11th-nlp-meetup"
+date = "2022-12-15"
 +++
 
 <!--more-->
