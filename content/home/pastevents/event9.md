@@ -1,6 +1,6 @@
 +++
 title = "Tricks and Tools from NLP Land"
-image = "images/tricks-and-tools-from-nlp-land.png"
+image = "/images/ev_nlp_tools_vinc_warmerdam/theme_photo.png"
 summary = "Speaker: Vincent D. Warmerdam | Nov 10, 2022 19:00"
 recording = "https://www.youtube.com/watch?v=sjiASMMbHao"
 url = "/events/tricks-and-tools-from-nlp-land"

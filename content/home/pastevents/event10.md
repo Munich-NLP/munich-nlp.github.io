@@ -1,6 +1,6 @@
 +++
 title = " PyData x MunichNLP Vol. 1"
-image = "images/pydata_event1.png"
+image = "/images/ev_nlp_pydata_v1/theme_photo.png"
 summary = "Speaker: Egor Labintcev & Nikita Iserson | Nov 17, 2022 18:00-22:00"
 recording = ""
 url = "/events/pydata-munichnlp-vol1"
@@ -9,7 +9,7 @@ date = "2022-11-17"
 
 <!--more-->
 
-![PyData x MunichNLP Vol. 1 ><](/images/pydata_event1.png)
+![PyData x MunichNLP Vol. 1 ><](/images/ev_nlp_pydata_v1/theme_photo.png)
 
 ### Location
 
