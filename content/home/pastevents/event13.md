@@ -1,6 +1,6 @@
 +++
 title = "PyData x MunichNLP Vol. 2"
-image = "/images/ev_nlp_pydata_v2/theme_photo.png"
+image = "/images/ev_nlp_pydata_v2/theme_photo_2.png"
 summary = "Speaker: Andrey Cheptsov & Hamza Tahir | Dec 8, 2022 18:00-22:00"
 recording = ""
 url = "/events/pydata-munichnlp-vol2"
@@ -9,7 +9,7 @@ date = "2022-12-08"
 
 <!--more-->
 
-![PyData x MunichNLP Vol. 2 ><](/images/ev_nlp_pydata_v2/theme_photo.png)
+![PyData x MunichNLP Vol. 2 ><](/images/ev_nlp_pydata_v2/theme_photo_2.png)
 
 ### Location
 
