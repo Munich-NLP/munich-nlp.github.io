@@ -1,7 +1,12 @@
-
-<div class="col-lg-12">
-    <p>
-      <img src= {{ .Params.image }} alt="">
-    </p>
-</div>
-
+{{ range where .Data.Pages "Section" .Section }}
+ <div class="wrapper" id="{{ .Params.id }}">
+   <div class="img">
+     <img src={{ .Params.image }} alt="round">
+   </div>
+   <div class="event">
+     <h3>{{ .Params.name }}</h3>
+     <p>{{ .Params.summary }}</p>
+     <p><a href="{{ .Permalink }}" class="btn btn-action">Contact</a></p>
+   </div>
+ </div>
+ {{ end }}

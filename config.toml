@@ -22,7 +22,7 @@ theme = "hugo-initio"
     showUpcomingEvents = true
     showPastEvents = true
     showPartners = false
-    showOrganizers = false
+    showOrganizers = true
 
     showFooterContact = false
     showFooterFollowMe = true
