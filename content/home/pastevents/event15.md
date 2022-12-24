@@ -10,9 +10,9 @@ url = "/events/ekin-akyurek-in-context-learning"
 
 ![What learning algorithm is in-context learning? ><](/images/ev_nlp_in_con_len_ekin_akyurek/theme_photo.jpg)
 
-### Location
+<!-- ### Location
 
-[Join the Event!](https://discord.gg/Ny9PG36NRw?event=1054125834455236728)
+[Join the Event!](https://discord.gg/Ny9PG36NRw?event=1054125834455236728) -->
 
 
 ### About this event
