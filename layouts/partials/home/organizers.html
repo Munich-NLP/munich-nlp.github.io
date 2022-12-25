@@ -6,7 +6,8 @@
    <div class="event">
      <h3>{{ .Params.name }}</h3>
      <p>{{ .Params.bio }}</p>
-     <h5>Bio 2: {{ .Params.bio_focus }}</h5>
+     <h5>Research Interests:</h5>
+     <p>{{ .Params.res_int }}</p>
      {{ if .Params.linkedin }}
        <a href="{{ .Params.linkedin }}" target="_blank">
          <i class='fab fa-linkedin-in' style='font-size:24px;color:black'></i></a>
