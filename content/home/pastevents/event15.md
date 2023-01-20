@@ -4,6 +4,7 @@ image = "/images/ev_nlp_in_con_len_ekin_akyurek/theme_photo.jpg"
 summary = "Speaker: Ekin Akyürek | Dec 22, 2022 17:00-18:30"
 recording = ""
 url = "/events/ekin-akyurek-in-context-learning"
+date = "2022-12-22"
 +++
 
 <!--more-->
