@@ -11,9 +11,9 @@ date = "17-02-2023"
 
 ![Better and Faster NLP Model Training: 10 Proven Techniques><](/images/ev_nlp_better_faster_wandb/EventBanner.jpg)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://media.licdn.com/dms/image/C4E03AQGYMUWZr1RIXw/profile-displayphoto-shrink_200_200/0/1600865897838?e=1679529600&v=beta&t=aKlV5WJGKyOa91m4whHaHKcNqHuoLCkFLqfL2anNM4Y).
+[Munich🥨NLP Discord Server](https://media.licdn.com/dms/image/C4E03AQGYMUWZr1RIXw/profile-displayphoto-shrink_200_200/0/1600865897838?e=1679529600&v=beta&t=aKlV5WJGKyOa91m4whHaHKcNqHuoLCkFLqfL2anNM4Y). -->
 
 
 ### About this Event
