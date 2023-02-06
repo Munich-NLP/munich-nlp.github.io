@@ -2,7 +2,7 @@
 title = "Better and Faster NLP Model Training: 10 Proven Techniques"
 image = "/images/ev_nlp_better_faster_wandb/theme_photo.png"
 summary = "Speaker: Darek Kłeczek | Feb 2, 2023 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=UbL1QMwDpec"
 url = "/events/better-and-faster-nlp-model-training"
 date = "17-02-2023"
 +++
