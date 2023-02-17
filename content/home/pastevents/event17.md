@@ -4,16 +4,16 @@ image = "/images/ev_nlp_pydata_v3/theme_photo.png"
 summary = "Speaker: Eric Joachim Liese, Prof. Dr. René Brunner | Feb 16, 2023 18:00-20:30"
 recording = ""
 url = "/events/pydata-munichnlp-vol3"
-date = "16-02-2023"
+date = "2023-02-16"
 +++
 
 <!--more-->
 
 ![PyData x MunichNLP Vol. 3 - ML Models in Production><](/images/ev_nlp_pydata_v3/theme_photo.png)
 
-### Location
+<!-- ### Location
 
-[Macromedia University of Applied Sciences](https://www.google.com/maps/search/?api=1&query=48.147476%2C%2011.555129). Register for the event [here](https://www.meetup.com/pydata-munchen/events/290454740/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref).
+[Macromedia University of Applied Sciences](https://www.google.com/maps/search/?api=1&query=48.147476%2C%2011.555129). Register for the event [here](https://www.meetup.com/pydata-munchen/events/290454740/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref). -->
 
 
 ### About this Event
