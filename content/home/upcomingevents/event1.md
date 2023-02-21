@@ -1,27 +1,27 @@
 +++
-title = "Question Answering with LangChain and Qdrant without boilerplate"
-image = "/images/ev_nlp_qa/theme_photo.png"
-summary = "Speaker: Kacper Łukawsk | Feb 21, 2023 18:00-20:30"
+title = "The past, present, and future of NLP from a linguistic perspective"
+image = "/images/ev_nlp_lingu_perspective/theme_photo.png"
+summary = "Speaker: Leonie Weissweiler | Feb 27, 2023 18:00-20:30"
 recording = ""
-url = "/events/qa-langchain-qdrant"
-date = "21-02-2023"
+url = "/events/linguistic-perspective"
+date = "27-02-2023"
 +++
 
 <!--more-->
 
-<!-- ![Question Answering with LangChainand Qdrant without boilerplate><](/images/ev_nlp_qa/theme_photo.png) -->
+<!-- ![The past, present, and future of NLP from a linguistic perspective><](/images/ev_nlp_lingu_perspective/theme_photo.png) -->
 
 ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/dtzejn3a6p?event=1070704850985287701).
+[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1070675978482896999).
 
 
 ### About this Event
 
-Hands-on introduction to designing a Question Answering system that combines Large Language Models and vector search. We'll go through a complete development of such a tool using Langchain and Qdrant as a knowledge base.
+Since the first modern Neural Networks were designed in the 1980s, NLP and the Linguistic debate about the modelling of human language have mostly diverged. Nevertheless, they have interacted and shaped each other in important ways, e.g. in the discussion about whether SotA language models reach their performances the 'right‘ way. This talk will explore the development of NLP from the perspective of the Linguistic debate of rule-l vs. usage-based theories, and highlight why taking a stand in this debate is important for finding solutions to the challenges facing SotA LLMs.
 
 ### Speakers
 
-![Kacper Łukawsk ><](https://media.licdn.com/dms/image/C4D03AQFJw2RLNROWZA/profile-displayphoto-shrink_200_200/0/1551536249197?e=1680739200&v=beta&t=tm8JPsO8rjE6P7EZjcK4cXa7G1BdfNeLwa_qu1KMl4U)
+![Leonie Weissweiler ><](https://www.cis.uni-muenchen.de/~weissweiler/util/images/profile.jpg)
 
-[**Kacper Łukawsk**](https://www.linkedin.com/in/kacperlukawski/) is a Developer Advocate at Qdrant - an open-source neural search engine. His experience is mostly related to data engineering, machine learning, and software design. Recently he’s been exploring the world of similarity learning and vector search.
+[**Leonie Weissweiler**](https://www.cis.uni-muenchen.de/~weissweiler/) is a PhD student at CIS LMU, supervised by Prof. Schütze. She is interested in leveraging methods from NLP to contribute to the empirical study of the emergent structure of Language, its evolution and processing in the brain. Her current research focuses on multilingual unsupervised Morphosyntax and probing language models for Construction Grammar together with Carnegie Mellon University.
