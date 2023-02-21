@@ -2,7 +2,7 @@
 title = "Question Answering with LangChain and Qdrant without boilerplate"
 image = "/images/ev_nlp_qa/theme_photo.png"
 summary = "Speaker: Kacper Łukawsk | Feb 21, 2023 18:00-20:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=D7BJVN92vPE"
 url = "/events/qa-langchain-qdrant"
 date = "2023-02-21"
 +++
