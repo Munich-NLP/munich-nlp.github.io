@@ -2,7 +2,7 @@
 title = "The past, present, and future of NLP from a linguistic perspective"
 image = "/images/ev_nlp_lingu_perspective/theme_photo.png"
 summary = "Speaker: Leonie Weissweiler | Feb 27, 2023 18:00-20:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=tBQKswYlQNs"
 url = "/events/linguistic-perspective"
 date = "27-02-2023"
 +++
@@ -11,9 +11,9 @@ date = "27-02-2023"
 
 <!-- ![The past, present, and future of NLP from a linguistic perspective><](/images/ev_nlp_lingu_perspective/theme_photo.png) -->
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1070675978482896999).
+[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1070675978482896999). -->
 
 
 ### About this Event
