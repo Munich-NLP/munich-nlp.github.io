@@ -1,10 +1,10 @@
 +++ 
-name = "Max Mustermann"
-bio = "Turing Award Winner"
-res_int = "Solving P versus NP problem"
-image = "images/huggingface.ico"
-linkedin = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-github = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-twitter = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-mail = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+name = "Philipp Koch"
+bio = "How can we improve NLU even further?"
+res_int = "NLU, NLG, Evaluation, Statistics and Linguistics"
+image = "images/about_us_photos/philipp.png"
+linkedin = "https://www.linkedin.com/in/phlkch/"
+github = "https://github.com/lazerlambda"
+twitter = "https://twitter.com/PhilippKoch15"
+mail = "P.Koch@campus.lmu.de"
 +++

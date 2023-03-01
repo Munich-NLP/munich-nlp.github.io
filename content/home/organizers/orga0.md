@@ -1,10 +1,10 @@
 +++ 
-name = "Philipp Koch"
-bio = "M.Sc. Statistics and Data Science Student @LMU"
-res_int = "NLU, NLG, Evaluation, Statistics and Linguistics"
-image = "images/organizers_photos/philipp-koch.jpg"
-linkedin = "https://www.linkedin.com/in/phlkch/"
-github = "https://github.com/lazerlambda"
-twitter = "https://twitter.com/PhilippKoch15"
-mail = "P.Koch@campus.lmu.de"
+name = "Muhtasham Oblokulov"
+bio = "Fine-Tuning Award Winner"
+res_int = "Prompt Engineer by day, LLM hacker by night "
+image = "images/about_us_photos/muhtasham.png"
+linkedin = "https://www.linkedin.com/in/muhtasham/"
+github = "https://github.com/muhtasham"
+twitter = "https://twitter.com/muhtasham9"
+mail = "mailto:muhtasham97@gmail.com"
 +++
