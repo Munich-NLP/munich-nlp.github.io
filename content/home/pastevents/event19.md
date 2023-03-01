@@ -4,7 +4,7 @@ image = "/images/ev_nlp_lingu_perspective/theme_photo.png"
 summary = "Speaker: Leonie Weissweiler | Feb 27, 2023 18:00-20:30"
 recording = "https://www.youtube.com/watch?v=tBQKswYlQNs"
 url = "/events/linguistic-perspective"
-date = "2023-27-02"
+date = "2023-02-27"
 +++
 
 <!--more-->
