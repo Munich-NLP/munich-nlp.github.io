@@ -6,5 +6,5 @@ image = "images/about_us_photos/muhtasham.png"
 linkedin = "https://www.linkedin.com/in/muhtasham/"
 github = "https://github.com/muhtasham"
 twitter = "https://twitter.com/muhtasham9"
-mail = "mailto:muhtasham97@gmail.com"
+mail = "mailto:munichnlp@gmail.com"
 +++

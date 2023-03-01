@@ -6,5 +6,5 @@ image = "images/about_us_photos/philipp.png"
 linkedin = "https://www.linkedin.com/in/phlkch/"
 github = "https://github.com/lazerlambda"
 twitter = "https://twitter.com/PhilippKoch15"
-mail = "P.Koch@campus.lmu.de"
+mail = "mailto:munichnlp@gmail.com"
 +++
