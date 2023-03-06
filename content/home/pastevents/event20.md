@@ -11,9 +11,9 @@ date = "2023-03-06"
 
 ![How to leverage modern labeling techniques to overcome the cold start problem"><](/images/ev_modern_labeling/theme_photo.png)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1070754451595472926).
+[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1070754451595472926). -->
 
 
 ### About this Event
