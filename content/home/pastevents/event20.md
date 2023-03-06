@@ -2,7 +2,7 @@
 title = "How to leverage modern labeling techniques to overcome the cold start problem"
 image = "/images/ev_modern_labeling/theme_photo.png"
 summary = "Speaker: Leonard Püttmann, Divyanshu Katiyar, Moritz Feuerpfeil | Mar 06, 2023 18:00-20:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=2NJOmvuWlnw"
 url = "/events/modern-labeling-techniques"
 date = "2023-03-06"
 +++
