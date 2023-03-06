@@ -4,7 +4,7 @@ image = "/images/ev_modern_labeling/theme_photo.png"
 summary = "Speaker: Leonard Püttmann, Divyanshu Katiyar, Moritz Feuerpfeil | Mar 06, 2023 18:00-20:30"
 recording = ""
 url = "/events/modern-labeling-techniques"
-date = "06-03-2023"
+date = "2023-03-06"
 +++
 
 <!--more-->
