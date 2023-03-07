@@ -29,3 +29,7 @@ We will delve into the syntax, logic, and evolution of ipyvizzu-story and the un
 ![Peter Vidos ><](https://media.licdn.com/dms/image/C4D03AQHBmXBx_Ng06Q/profile-displayphoto-shrink_200_200/0/1516527754681?e=1683763200&v=beta&t=jf_b242_0t0IJvGzbB5qa867ZAQheXgg1-GSWkhex0k)
 
 [**Peter Vidos**](https://www.linkedin.com/in/petervidos) Peter is the CEO & Co-Founder of [Vizzu](https://vizzuhq.com/).
+
+His primary focus is understanding how Vizzu's innovative approach to data visualization can be put to good use. Listening to people complaining about their current hurdles with building charts and presenting them is his main obsession, next to figuring out how to help data professionals utilize the power of animation in dataviz.
+
+Peter has been involved with digital product development for over 15 years. Earlier products/projects he worked on cover mobile app testing, online analytics, data visualization, decision support, e-learning, educational administration & social. Still, building a selfie teleport just for fun is what he likes to boast about when asked about previous experiences.
