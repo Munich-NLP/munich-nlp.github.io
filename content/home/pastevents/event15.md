@@ -29,8 +29,8 @@ Ekin Akyürek from MIT Computer Science and Artificial Intelligence Laboratory (
 
 ### Speaker
 
-![Ekin Akzürek ><](https://www.ekinakyurek.me/assets/ekin.jpg)
+![Ekin Akyürek ><](https://www.ekinakyurek.me/assets/ekin.jpg)
 
-**Ekin Akzürek** is a computer science PhD student at the Massachusetts Institute of Technology (MIT). He studies artificial intelligence through natural language processing and machine learning and is advised by Jacob Andreas.
+**Ekin Akyürek** is a computer science PhD student at the Massachusetts Institute of Technology (MIT). He studies artificial intelligence through natural language processing and machine learning and is advised by Jacob Andreas.
 
 He works on improving sequence modeling for language processing and understanding.
