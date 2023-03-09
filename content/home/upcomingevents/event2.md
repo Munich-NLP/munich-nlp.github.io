@@ -1,27 +1,35 @@
 +++
-title = "Collaborative pretraining and recycling finetuned models"
-image = "/images/ev_collab_pretraining/theme_photo.png"
-summary = "Speaker: Leshem Choshen | Mar 13, 2023 18:00-21:30"
+title = "Bringing Your Insights to Life with ipyvizzu-story"
+image = "/images/ev_ipyvizzu/theme_photo.png"
+summary = "Speaker: Peter Vidos | Mar 16, 2023 18:00-19:30"
 recording = ""
-url = "/events/colab-pretraining-and-recycling-finetuned-models"
-date = "03-13-2023"
+url = "/events/bringing-your-insights-to-life-with-ipyvizzu-story"
+date = "03-16-2023"
 +++
 
 <!--more-->
 
-![Collaborative pretraining and recycling finetuned models ><](/images/ev_collab_pretraining/theme_photo.png)
+![Bringing Your Insights to Life with ipyvizzu-story ><](/images/ev_ipyvizzu/theme_photo.png)
 
 ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1079489509303009310).
+[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1078046028546191421).
 
 
 ### About this Event
 
-This talk will discuss our recent advancements in recycling finetuned models and collaborative pretraining. We would describe how to harness the data and computation invested in one or more models to collaboratively improve the pre-trained model they originated from, once or over and over again. The work will also touch on our initial understanding of how and why fusing several models by weight averaging works. 
+Presenting and communicating the outcomes of your analysis has never been more engaging. Say goodbye to dull slides and hello to animated data storytelling.
+
+In this talk, one of the creators of [ipyvizzu-story](https://github.com/vizzuhq/ipyvizzu-story) will demonstrate how this new open-source presentation tool, integrated with Jupyter Notebook and similar platforms, makes use of a simple Python interface to bring your data to life through animated stories.
+
+We will delve into the syntax, logic, and evolution of ipyvizzu-story and the underlying chart morphing engine. By the end of the session, you will have a clear understanding of when, why, and how to utilize this tool to its fullest potential.
 
 ### Speakers
 
-![Leshem Choshen ><](https://static.wixstatic.com/media/24c4d9_6c5d12636b024fbeab35ae1761838a51~mv2_d_3264_4896_s_4_2.jpg/v1/fill/w_383,h_511,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/24c4d9_6c5d12636b024fbeab35ae1761838a51~mv2_d_3264_4896_s_4_2.jpg)
+![Peter Vidos ><](https://media.licdn.com/dms/image/C4D03AQHBmXBx_Ng06Q/profile-displayphoto-shrink_200_200/0/1516527754681?e=1683763200&v=beta&t=jf_b242_0t0IJvGzbB5qa867ZAQheXgg1-GSWkhex0k)
 
-[**Leshem Choshen**](https://ktilana.wixsite.com/leshem-choshen) Leshem Choshen currently leads the ColD-fusion challenge at IBM, aiming to collaboratively pretrain and propose to recycle finetuned models to do so. He received the postdoctoral Fulbright fellowship as well as IAAI and Blavatnik best Ph.D. awards. With broad NLP and ML interests, he also worked on Reinforcement Learning, Evaluation and Understanding of how neural networks learn. In parallel, he participated in Project Debater, creating a machine that could hold a formal debate, ending in a Nature cover and live debate. 
+[**Peter Vidos**](https://www.linkedin.com/in/petervidos) Peter is the CEO & Co-Founder of [Vizzu](https://vizzuhq.com/).
+
+His primary focus is understanding how Vizzu's innovative approach to data visualization can be put to good use. Listening to people complaining about their current hurdles with building charts and presenting them is his main obsession, next to figuring out how to help data professionals utilize the power of animation in dataviz.
+
+Peter has been involved with digital product development for over 15 years. Earlier products/projects he worked on cover mobile app testing, online analytics, data visualization, decision support, e-learning, educational administration & social. Still, building a selfie teleport just for fun is what he likes to boast about when asked about previous experiences.

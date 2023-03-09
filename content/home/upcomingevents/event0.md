@@ -1,28 +1,31 @@
 +++
-title = "Fine-Tuning Transformers for Your NLP Problem - A Journey Through Past Kaggle Competitions"
-image = "/images/ev_kaggle/theme_photo.jpeg"
-summary = "Speaker: Dr. Christof Henkel | Mar 09, 2023 18:00-21:30"
+title = "NVIDIA RecSys Meetup"
+image = "/images/ev_nvidia_meetup/theme_photo.jpeg"
+summary = "Speaker: Philipp Normann, Pavel Klemenkov, Benedikt Schifferer, Dr. Christof Henkel | Mar 10, 2023 15:00-21:30"
 recording = ""
-url = "/events/fine-tuning-transformers-for-your-nlp-problem"
-date = "03-09-2023"
+url = "/events/nvidia-recsys-meetup"
+date = "03-10-2023"
 +++
 
 <!--more-->
 
-![Fine-Tuning Transformers for Your NLP Problem - A Journey Through Past Kaggle Competitions ><](/images/ev_kaggle/theme_photo.jpeg)
+![NVIDIA RecSys Meetup ><](/images/ev_nvidia_meetup/theme_photo.jpeg)
 
 ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1074964807595339866).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1080492641533300817).
 
 
 ### About this Event
 
-We will talk about leveraging the power of pretrained transformer models by adjusting and fine-tuning to fit custom problems. We illustrate the flexibility by discussing diverse use cases that were part of recent kaggle competitions like question answering, sentiment segmentation, multilingual toxicity detection or ordering of the code cells in a jupyter notebook.
+Join us on March 10th in Munich to learn more about:
 
+10 Things we learned by hosting a Kaggle competition, with Philipp Normann, Senior Data Scientist at OTTO
 
-### Speaker
+It’s hard to deliver even a simple recommender! With Pavel Klemenkov, Chief Data Scientist (Data Platform) at NVIDIA
 
-![Dr. Christof Henkel ><](https://secure-content.meetupstatic.com/images/classic-events/510988854/100x100.webp)
+Summary of participating in five RecSys competitions, with Benedikt Schifferer, Deep Learning Engineer at NVIDIA
 
-[**Dr. Christof Henkel**](https://www.kaggle.com/christofhenkel) works as an applied deep learning researcher at NVIDIA. His main interests are novel deep learning architectures related to graphs, computer vision, text and audio. He holds a PhD from the Ludwig-Maximilians-University in Munich where he studied mathematics and specialized in stochastic processes. He is a triple kaggle grandmaster and after participating in more than 50 kaggle competitions he reached rank #1 in the world-wide competition ranking in 2022.
+Using Multimodal NNs for eCommerce, with Dr. Christof Henkel, Deep Learner at NVIDIA
+
+Hosted at NVIDIA’s office in Munich, Germany (Einsteinstrasse 172, 81677 München), join us from 3 PM CET to listen to experts, tour the data center, chat with peers, and eat some delicious pizza!

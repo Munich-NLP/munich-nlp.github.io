@@ -1,31 +1,27 @@
 +++
-title = "NVIDIA RecSys Meetup"
-image = "/images/ev_nvidia_meetup/theme_photo.jpeg"
-summary = "Speaker: Philipp Normann, Pavel Klemenkov, Benedikt Schifferer, Dr. Christof Henkel | Mar 10, 2023 15:00-21:30"
+title = "Collaborative pretraining and recycling finetuned models"
+image = "/images/ev_collab_pretraining/theme_photo.png"
+summary = "Speaker: Leshem Choshen | Mar 13, 2023 18:00-21:30"
 recording = ""
-url = "/events/nvidia-recsys-meetup"
-date = "03-10-2023"
+url = "/events/colab-pretraining-and-recycling-finetuned-models"
+date = "03-13-2023"
 +++
 
 <!--more-->
 
-![NVIDIA RecSys Meetup ><](/images/ev_nvidia_meetup/theme_photo.jpeg)
+![Collaborative pretraining and recycling finetuned models ><](/images/ev_collab_pretraining/theme_photo.png)
 
 ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1080492641533300817).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1079489509303009310).
 
 
 ### About this Event
 
-Join us on March 10th in Munich to learn more about:
+This talk will discuss our recent advancements in recycling finetuned models and collaborative pretraining. We would describe how to harness the data and computation invested in one or more models to collaboratively improve the pre-trained model they originated from, once or over and over again. The work will also touch on our initial understanding of how and why fusing several models by weight averaging works. 
 
-10 Things we learned by hosting a Kaggle competition, with Philipp Normann, Senior Data Scientist at OTTO
+### Speakers
 
-It’s hard to deliver even a simple recommender! With Pavel Klemenkov, Chief Data Scientist (Data Platform) at NVIDIA
+![Leshem Choshen ><](https://static.wixstatic.com/media/24c4d9_6c5d12636b024fbeab35ae1761838a51~mv2_d_3264_4896_s_4_2.jpg/v1/fill/w_383,h_511,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/24c4d9_6c5d12636b024fbeab35ae1761838a51~mv2_d_3264_4896_s_4_2.jpg)
 
-Summary of participating in five RecSys competitions, with Benedikt Schifferer, Deep Learning Engineer at NVIDIA
-
-Using Multimodal NNs for eCommerce, with Dr. Christof Henkel, Deep Learner at NVIDIA
-
-Hosted at NVIDIA’s office in Munich, Germany (Einsteinstrasse 172, 81677 München), join us from 3 PM CET to listen to experts, tour the data center, chat with peers, and eat some delicious pizza!
+[**Leshem Choshen**](https://ktilana.wixsite.com/leshem-choshen) Leshem Choshen currently leads the ColD-fusion challenge at IBM, aiming to collaboratively pretrain and propose to recycle finetuned models to do so. He received the postdoctoral Fulbright fellowship as well as IAAI and Blavatnik best Ph.D. awards. With broad NLP and ML interests, he also worked on Reinforcement Learning, Evaluation and Understanding of how neural networks learn. In parallel, he participated in Project Debater, creating a machine that could hold a formal debate, ending in a Nature cover and live debate. 
