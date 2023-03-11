@@ -18,7 +18,7 @@ date = "03-13-2023"
 
 ### About this Event
 
-This talk will discuss our recent advancements in recycling finetuned models and collaborative pretraining. We would describe how to harness the data and computation invested in one or more models to collaboratively improve the pre-trained model they originated from, once or over and over again. The work will also touch on our initial understanding of how and why fusing several models by weight averaging works. 
+This talk will discuss our recent advancements in recycling finetuned models and collaborative pretraining. We would describe how to harness the data and computation invested in one or more models to collaboratively improve the pre-trained model they originated from, once or over and over again. The work will also touch on our initial understanding of how and why fusing several models by weight averaging works. All of these are small steps towards evolving pretrained models that we create together as a community, join us, check the best models and feel free to contact me and ask questions.
 
 ### Speakers
 
