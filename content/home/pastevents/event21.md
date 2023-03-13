@@ -4,7 +4,7 @@ image = "/images/ev_kaggle/theme_photo.jpeg"
 summary = "Speaker: Dr. Christof Henkel | Mar 09, 2023 18:00-21:30"
 recording = ""
 url = "/events/fine-tuning-transformers-for-your-nlp-problem"
-date = "03-09-2023"
+date = "2023-03-09"
 +++
 
 <!--more-->

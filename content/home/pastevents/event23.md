@@ -2,7 +2,7 @@
 title = "Collaborative pretraining and recycling finetuned models"
 image = "/images/ev_collab_pretraining/theme_photo.png"
 summary = "Speaker: Leshem Choshen | Mar 13, 2023 18:00-21:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=Aw509ml198M"
 url = "/events/colab-pretraining-and-recycling-finetuned-models"
 date = "2023-03-13"
 +++
