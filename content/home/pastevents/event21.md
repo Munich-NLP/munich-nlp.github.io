@@ -2,7 +2,7 @@
 title = "Fine-Tuning Transformers for Your NLP Problem - A Journey Through Past Kaggle Competitions"
 image = "/images/ev_kaggle/theme_photo.jpeg"
 summary = "Speaker: Dr. Christof Henkel | Mar 09, 2023 18:00-21:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=CG9j0duQrX0"
 url = "/events/fine-tuning-transformers-for-your-nlp-problem"
 date = "2023-03-09"
 +++
