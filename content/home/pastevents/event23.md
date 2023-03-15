@@ -11,9 +11,9 @@ date = "2023-03-13"
 
 ![Collaborative pretraining and recycling finetuned models ><](/images/ev_collab_pretraining/theme_photo.png)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1079489509303009310).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1079489509303009310). -->
 
 
 ### About this Event

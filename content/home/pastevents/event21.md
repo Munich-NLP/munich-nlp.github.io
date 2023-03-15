@@ -11,9 +11,9 @@ date = "2023-03-09"
 
 ![Fine-Tuning Transformers for Your NLP Problem - A Journey Through Past Kaggle Competitions ><](/images/ev_kaggle/theme_photo.jpeg)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1074964807595339866).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1074964807595339866). -->
 
 
 ### About this Event

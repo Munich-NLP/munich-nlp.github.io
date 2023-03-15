@@ -11,9 +11,9 @@ date = "2023-03-10"
 
 ![NVIDIA RecSys Meetup ><](/images/ev_nvidia_meetup/theme_photo.jpeg)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1080492641533300817).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1080492641533300817). -->
 
 
 ### About this Event
