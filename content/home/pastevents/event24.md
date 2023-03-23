@@ -2,7 +2,7 @@
 title = "Bringing Your Insights to Life with ipyvizzu-story"
 image = "/images/ev_ipyvizzu/theme_photo.png"
 summary = "Speaker: Peter Vidos | Mar 16, 2023 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=ssoxqustneQ"
 url = "/events/bringing-your-insights-to-life-with-ipyvizzu-story"
 date = "2023-03-16"
 +++
