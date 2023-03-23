@@ -4,16 +4,16 @@ image = "/images/ev_latent_space_communications/theme_photo.png"
 summary = "Speaker: Luca Moschella | Mar 23, 2023 18:00-19:30"
 recording = ""
 url = "/events/rel-repr-enable-zero-shot-lat-spc-com"
-date = "03-23-2023"
+date = "2023-03-23"
 +++
 
 <!--more-->
 
 ![Relative representations enable zero-shot latent space communication ><](/images/ev_latent_space_communications/theme_photo.png)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1072256828500607118).
+[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1072256828500607118). -->
 
 
 ### About this Event
