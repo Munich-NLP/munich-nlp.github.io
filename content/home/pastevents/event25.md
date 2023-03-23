@@ -2,7 +2,7 @@
 title = "Relative representations enable zero-shot latent space communication"
 image = "/images/ev_latent_space_communications/theme_photo.png"
 summary = "Speaker: Luca Moschella | Mar 23, 2023 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=yj--paX6ZT4"
 url = "/events/rel-repr-enable-zero-shot-lat-spc-com"
 date = "2023-03-23"
 +++
