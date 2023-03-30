@@ -1,28 +1,33 @@
 +++
-title = "Measuring political positions using contextual word embeddings"
-image = "/images/ev_pol_nlp/theme_photo.png"
-summary = "Speaker: Patrick Schwabl | Apr 20, 2023 18:00-19:30"
+title = "CC-Top: Constrained Clustering for Dynamic Topic Discovery"
+image = "/images/ev_cc/theme_photo.jpeg"
+summary = "Speaker: Jann Goschenhoffer, Dr. Matthias Aßenmacher | Apr 11, 2023 18:00-19:30"
 recording = ""
-url = "/events/measuring-political-positions-using-contextual-word-embeddings"
-date = "04-20-2023"
+url = "/events/constrained-clustering"
+date = "04-11-2023"
 +++
 
 <!--more-->
 
-![Measuring political positions using contextual word embeddings ><](/images/ev_pol_nlp/theme_photo.png)
+![CC-Top: Constrained Clustering for Dynamic Topic Discovery ><](/images/ev_cc/theme_photo.jpeg)
 
 ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1072891704593629307).
+[Munich🥨NLP Discord Server](https://discord.gg/MExzW9mqbZ?event=1077355312958423130).
 
 
 ### About this Event
 
-I will talk about how in the social sciences (primarily political and communication science), neural NLP is being used 
-to measure constructs of interest that have previously been measured by hand coding.
-I illustrate this with results from experiments on parliament speeches and party manifestos from the 
-last legislative period in Germany (2017-2021). One key issue I want to discuss (and where social science and computer science sometimes have a different understanding) is measurement validity.
+Research on multi-class text classification of short texts mainly focuses on supervised (transfer) learning approaches, requiring a finite set of pre-defined classes which is constant over time. This talk covers deep constrained clustering (CC) as an alternative to supervised learning approaches in a setting with a dynamically changing number of classes, a task we introduce as dynamic topic discovery (DTD).
+[(Link to the paper)](https://aclanthology.org/2022.evonlp-1.5/)
 
-![Patrick Schwabl ><](https://www.ls1.ifkw.uni-muenchen.de/bilder/web_bilder_m/patrick.JPG)
 
-[**Patrick Schwabl**](https://patschw.github.io) is a Ph.D. student at LMU Munich. He works at the chair for Computational Communication Research of Professor Mario Haim. His research uses word embeddings to measure social science constructs like political positions or societal cleavages in textual data.
+![Jann Goschenhoffer ><](https://www.slds.stat.uni-muenchen.de/images/janngoschenhofer.png)
+
+
+[**Jann Goschenhoffer**](https://www.slds.stat.uni-muenchen.de/people/goschenhofer/)  is a final-year PhD student at the working group for the SLDS chair at LMU Munich in cooperation with the Fraunhofer ADA Lovelace Center. Currently, he focuses on Constrained Clustering and Positive Unlabeled Learning.
+
+
+![Dr. Matthias Aßenmacher ><](/images/assenmacher.png)
+
+[**Dr. Matthias Aßenmacher**] is a postdoctoral researcher at the Chair of SLDS chair and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). In 2021, he finished his PhD focusing on Natural Language Processing. He works on a diverse set of NLP Applications, including Active Learning, Bias and multi-modal use cases.
