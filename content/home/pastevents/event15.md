@@ -11,6 +11,7 @@ date = "2022-12-22"
 
 ![What learning algorithm is in-context learning? ><](/images/ev_nlp_in_con_len_ekin_akyurek/theme_photo.jpg)
 
+
 <!-- ### Location
 
 [Join the Event!](https://discord.gg/Ny9PG36NRw?event=1054125834455236728) -->

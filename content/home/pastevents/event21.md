@@ -8,8 +8,9 @@ date = "2023-03-09"
 +++
 
 <!--more-->
+{{< youtube  CG9j0duQrX0>}}
 
-![Fine-Tuning Transformers for Your NLP Problem - A Journey Through Past Kaggle Competitions ><](/images/ev_kaggle/theme_photo.jpeg)
+<!-- ![Fine-Tuning Transformers for Your NLP Problem - A Journey Through Past Kaggle Competitions ><](/images/ev_kaggle/theme_photo.jpeg) -->
 
 <!-- ### Location
 

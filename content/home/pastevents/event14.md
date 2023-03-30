@@ -11,9 +11,9 @@ date = "2022-12-15"
 
 ![11th NLP Meetup ><](/images/nlpmeetup.png)
 
-### Location
+<!-- ### Location
 
-[Munich Re](https://www.google.com/maps/search/?api=1&query=48.156277%2C%2011.588085). Register for the event [here](https://www.meetup.com/natural-language-processing-understanding-nlp-nlu/events/290123444/).
+[Munich Re](https://www.google.com/maps/search/?api=1&query=48.156277%2C%2011.588085). Register for the event [here](https://www.meetup.com/natural-language-processing-understanding-nlp-nlu/events/290123444/). -->
 
 
 ### About this event

@@ -8,6 +8,7 @@ date = "2023-02-27"
 +++
 
 <!--more-->
+{{< youtube  tBQKswYlQNs>}}
 
 <!-- ![The past, present, and future of NLP from a linguistic perspective><](/images/ev_nlp_lingu_perspective/theme_photo.png) -->
 

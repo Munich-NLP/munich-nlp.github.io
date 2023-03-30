@@ -8,8 +8,9 @@ date = "2023-03-23"
 +++
 
 <!--more-->
+{{< youtube  yj--paX6ZT4>}}
 
-![Relative representations enable zero-shot latent space communication ><](/images/ev_latent_space_communications/theme_photo.png)
+<!-- ![Relative representations enable zero-shot latent space communication ><](/images/ev_latent_space_communications/theme_photo.png) -->
 
 <!-- ### Location
 

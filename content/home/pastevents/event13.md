@@ -11,9 +11,9 @@ date = "2022-12-08"
 
 ![PyData x MunichNLP Vol. 2 ><](/images/ev_nlp_pydata_v2/theme_photo_2.png)
 
-### Location
+<!-- ### Location
 
-JetBrains Munich. Register for the event [here](https://www.meetup.com/pydata-munchen/events/289404388/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref).
+JetBrains Munich. Register for the event [here](https://www.meetup.com/pydata-munchen/events/289404388/?_xtd=gqFyqTMyNjU0NTQxOKFwo2FwaQ%253D%253D&from=ref). -->
 
 
 ### About this event

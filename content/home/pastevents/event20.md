@@ -8,6 +8,7 @@ date = "2023-03-06"
 +++
 
 <!--more-->
+{{< youtube  2NJOmvuWlnw>}}
 
 ![How to leverage modern labeling techniques to overcome the cold start problem"><](/images/ev_modern_labeling/theme_photo.png)
 

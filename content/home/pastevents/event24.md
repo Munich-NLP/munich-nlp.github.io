@@ -8,8 +8,9 @@ date = "2023-03-16"
 +++
 
 <!--more-->
+{{< youtube  ssoxqustneQ>}}
 
-![Bringing Your Insights to Life with ipyvizzu-story ><](/images/ev_ipyvizzu/theme_photo.png)
+<!-- ![Bringing Your Insights to Life with ipyvizzu-story ><](/images/ev_ipyvizzu/theme_photo.png) -->
 
 <!-- ### Location
 

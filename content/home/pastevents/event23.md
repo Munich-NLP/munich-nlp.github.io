@@ -8,8 +8,9 @@ date = "2023-03-13"
 +++
 
 <!--more-->
+{{< youtube  Aw509ml198M>}}
 
-![Collaborative pretraining and recycling finetuned models ><](/images/ev_collab_pretraining/theme_photo.png)
+<!-- ![Collaborative pretraining and recycling finetuned models ><](/images/ev_collab_pretraining/theme_photo.png) -->
 
 <!-- ### Location
 

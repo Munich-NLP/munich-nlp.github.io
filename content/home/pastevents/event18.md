@@ -8,6 +8,7 @@ date = "2023-02-21"
 +++
 
 <!--more-->
+{{< youtube  D7BJVN92vPE>}}
 
 <!-- ![Question Answering with LangChainand Qdrant without boilerplate><](/images/ev_nlp_qa/theme_photo.png) -->
 

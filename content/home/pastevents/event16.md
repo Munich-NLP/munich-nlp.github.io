@@ -9,7 +9,9 @@ date = "2023-02-02"
 
 <!--more-->
 
-![Better and Faster NLP Model Training: 10 Proven Techniques><](/images/ev_nlp_better_faster_wandb/EventBanner.jpg)
+{{< youtube  UbL1QMwDpec>}}
+
+<!-- ![Better and Faster NLP Model Training: 10 Proven Techniques><](/images/ev_nlp_better_faster_wandb/EventBanner.jpg) -->
 
 <!-- ### Location
 
