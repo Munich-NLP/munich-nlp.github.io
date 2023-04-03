@@ -1,7 +1,7 @@
 +++
 title = "CC-Top: Constrained Clustering for Dynamic Topic Discovery"
 image = "/images/ev_cc/theme_photo.jpeg"
-summary = "Speaker: Jann Goschenhoffer, Dr. Matthias Aßenmacher | Apr 11, 2023 18:00-19:30"
+summary = "Speaker: Jann Goschenhofer, Dr. Matthias Aßenmacher | Apr 11, 2023 18:00-19:30"
 recording = ""
 url = "/events/constrained-clustering"
 date = "04-11-2023"
@@ -25,7 +25,7 @@ Research on multi-class text classification of short texts mainly focuses on sup
 ![Jann Goschenhoffer ><](https://www.slds.stat.uni-muenchen.de/images/janngoschenhofer.png)
 
 
-[**Jann Goschenhoffer**](https://www.slds.stat.uni-muenchen.de/people/goschenhofer/)  is a final-year PhD student at the working group for the SLDS chair at LMU Munich in cooperation with the Fraunhofer ADA Lovelace Center. Currently, he focuses on Constrained Clustering and Positive Unlabeled Learning.
+[**Jann Goschenhofer**](https://www.slds.stat.uni-muenchen.de/people/goschenhofer/)  is a final-year PhD student at the working group for the SLDS chair at LMU Munich in cooperation with the Fraunhofer ADA Lovelace Center. Currently, he focuses on Constrained Clustering and Positive Unlabeled Learning.
 
 
 ![Dr. Matthias Aßenmacher ><](/images/assenmacher.png)
