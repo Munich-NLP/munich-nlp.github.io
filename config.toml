@@ -14,7 +14,7 @@ theme = "hugo-initio"
     avatarclass = ""
     background = ""
     banner = ""
-    favicon = ""
+    favicon = "images/favicon.png"
     DateForm = ""
     author = ""
 
