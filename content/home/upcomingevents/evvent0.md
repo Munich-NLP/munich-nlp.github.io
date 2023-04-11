@@ -1,33 +1,25 @@
 +++
-title = "CC-Top: Constrained Clustering for Dynamic Topic Discovery"
-image = "/images/ev_cc/theme_photo.jpeg"
-summary = "Speaker: Jann Goschenhofer, Dr. Matthias Aßenmacher | Apr 11, 2023 18:00-19:30"
+title = "The misalignment of legal judgement prediction model with expert and how to improve it"
+image = "/images/ev_legal_nlp/theme_photo.png"
+summary = "Speaker: Shanshan Xu | Apr 17, 2023 18:00-19:30"
 recording = ""
-url = "/events/constrained-clustering"
-date = "04-11-2023"
+url = "/events/misalignment-of-legal-judgement"
+date = "04-17-2023"
 +++
 
 <!--more-->
 
-![CC-Top: Constrained Clustering for Dynamic Topic Discovery ><](/images/ev_cc/theme_photo.jpeg)
+![The misalignment of legal judgement prediction model with expert and how to improve it ><](/images/ev_legal_nlp/theme_photo.png)
 
 ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/MExzW9mqbZ?event=1077355312958423130).
+[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1082301794954264628).
 
 
 ### About this Event
 
-Research on multi-class text classification of short texts mainly focuses on supervised (transfer) learning approaches, requiring a finite set of pre-defined classes which is constant over time. This talk covers deep constrained clustering (CC) as an alternative to supervised learning approaches in a setting with a dynamically changing number of classes, a task we introduce as dynamic topic discovery (DTD).
-[(Link to the paper)](https://aclanthology.org/2022.evonlp-1.5/)
+What does robot judege/ Legal Judgment Prediction (LJP) model actually predict from? I will talk about that neural LJP models without expert-informed adjustments can be vulnerable to shallow, distracting surface signals. Our experiments on neural LJP predicting European Court of Human Rights cases  shows adversarial training can help better align models with experts, and in many cases can even achieve better prediction performance.
 
+![Shanshan Xu ><](https://sxu3.github.io/authors/admin/avatar_hu91610b169a7652533ea654a0d393ba5d_895245_270x270_fill_q75_lanczos_center.jpg)
 
-![Jann Goschenhoffer ><](https://www.slds.stat.uni-muenchen.de/images/janngoschenhofer.png)
-
-
-[**Jann Goschenhofer**](https://www.slds.stat.uni-muenchen.de/people/goschenhofer/)  is a final-year PhD student at the working group for the SLDS chair at LMU Munich in cooperation with the Fraunhofer ADA Lovelace Center. Currently, he focuses on Constrained Clustering and Positive Unlabeled Learning.
-
-
-![Dr. Matthias Aßenmacher ><](/images/assenmacher.png)
-
-[**Dr. Matthias Aßenmacher**] is a postdoctoral researcher at the Chair of SLDS chair and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). In 2021, he finished his PhD focusing on Natural Language Processing. He works on a diverse set of NLP Applications, including Active Learning, Bias and multi-modal use cases.
+[**Shanshan Xu**](https://sxu3.github.io/) is a PhD student of Legal Tech in the Department of Informatics at the Technical University of Munich. Before transferring her PhD to TUM, she was a PhD student at L3S Research Center. Previous to that, she worked as a speech scientist at Nuance Communications/Cerence. She did her master in Cultural and Cognitive Linguistics at LMU Munich. Her research interest is NLP in LegalTech, Computational Social Science and Computational Linguistics.
