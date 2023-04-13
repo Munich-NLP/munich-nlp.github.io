@@ -30,4 +30,4 @@ Research on multi-class text classification of short texts mainly focuses on sup
 
 ![Dr. Matthias Aßenmacher ><](/images/assenmacher.png)
 
-[**Dr. Matthias Aßenmacher**] is a postdoctoral researcher at the Chair of SLDS chair and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). In 2021, he finished his PhD focusing on Natural Language Processing. He works on a diverse set of NLP Applications, including Active Learning, Bias and multi-modal use cases.
+[**Dr. Matthias Aßenmacher**](https://assenmacher-mat.github.io/) is a postdoctoral researcher at the Chair of SLDS chair and the NFDI Consortium for Business, Economic and Related Data (BERD@NFDI). In 2021, he finished his PhD focusing on Natural Language Processing. He works on a diverse set of NLP Applications, including Active Learning, Bias and multi-modal use cases.
