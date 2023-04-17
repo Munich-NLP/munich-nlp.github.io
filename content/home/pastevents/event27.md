@@ -2,7 +2,7 @@
 title = "The misalignment of legal judgement prediction model with expert and how to improve it"
 image = "/images/ev_legal_nlp/theme_photo.png"
 summary = "Speaker: Shanshan Xu | Apr 17, 2023 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=lX8Mg9TVPAQ"
 url = "/events/misalignment-of-legal-judgement"
 date = "2023-04-17"
 +++
