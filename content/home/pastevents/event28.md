@@ -2,18 +2,18 @@
 title = "Measuring political positions using contextual word embeddings"
 image = "/images/ev_pol_nlp/theme_photo.png"
 summary = "Speaker: Patrick Schwabl | Apr 20, 2023 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=4l7KqNqgZdg"
 url = "/events/measuring-political-positions-using-contextual-word-embeddings"
-date = "04-20-2023"
+date = "2023-04-20"
 +++
 
 <!--more-->
 
 ![Measuring political positions using contextual word embeddings ><](/images/ev_pol_nlp/theme_photo.png)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1072891704593629307).
+[Munich🥨NLP Discord Server](https://discord.gg/XWjVzYvjAu?event=1072891704593629307). -->
 
 
 ### About this Event
