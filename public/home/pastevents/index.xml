@@ -6,7 +6,133 @@
     <description>Recent content in Past Events on Munich NLP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://munich-nlp.github.io/home/pastevents/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://munich-nlp.github.io/home/pastevents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring political positions using contextual word embeddings</title>
+      <link>https://munich-nlp.github.io/events/measuring-political-positions-using-contextual-word-embeddings/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/measuring-political-positions-using-contextual-word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The misalignment of legal judgement prediction model with expert and how to improve it</title>
+      <link>https://munich-nlp.github.io/events/misalignment-of-legal-judgement/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/misalignment-of-legal-judgement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC-Top: Constrained Clustering for Dynamic Topic Discovery</title>
+      <link>https://munich-nlp.github.io/events/constrained-clustering/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/constrained-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative representations enable zero-shot latent space communication</title>
+      <link>https://munich-nlp.github.io/events/rel-repr-enable-zero-shot-lat-spc-com/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/rel-repr-enable-zero-shot-lat-spc-com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Your Insights to Life with ipyvizzu-story</title>
+      <link>https://munich-nlp.github.io/events/bringing-your-insights-to-life-with-ipyvizzu-story/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/bringing-your-insights-to-life-with-ipyvizzu-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative pretraining and recycling finetuned models</title>
+      <link>https://munich-nlp.github.io/events/colab-pretraining-and-recycling-finetuned-models/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/colab-pretraining-and-recycling-finetuned-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVIDIA RecSys Meetup</title>
+      <link>https://munich-nlp.github.io/events/nvidia-recsys-meetup/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/nvidia-recsys-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Tuning Transformers for Your NLP Problem - A Journey Through Past Kaggle Competitions</title>
+      <link>https://munich-nlp.github.io/events/fine-tuning-transformers-for-your-nlp-problem/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/fine-tuning-transformers-for-your-nlp-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to leverage modern labeling techniques to overcome the cold start problem</title>
+      <link>https://munich-nlp.github.io/events/modern-labeling-techniques/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/modern-labeling-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The past, present, and future of NLP from a linguistic perspective</title>
+      <link>https://munich-nlp.github.io/events/linguistic-perspective/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/linguistic-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Question Answering with LangChain and Qdrant without boilerplate</title>
+      <link>https://munich-nlp.github.io/events/qa-langchain-qdrant/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/qa-langchain-qdrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyData x MunichNLP Vol. 3 - ML Models in Production</title>
+      <link>https://munich-nlp.github.io/events/pydata-munichnlp-vol3/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/pydata-munichnlp-vol3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better and Faster NLP Model Training: 10 Proven Techniques</title>
+      <link>https://munich-nlp.github.io/events/better-and-faster-nlp-model-training/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/better-and-faster-nlp-model-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What learning algorithm is in-context learning?</title>
+      <link>https://munich-nlp.github.io/events/ekin-akyurek-in-context-learning/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/ekin-akyurek-in-context-learning/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>11th NLP Meetup</title>
       <link>https://munich-nlp.github.io/events/11th-nlp-meetup/</link>
@@ -139,15 +265,6 @@
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://munich-nlp.github.io/events/life-after-bert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What learning algorithm is in-context learning?</title>
-      <link>https://munich-nlp.github.io/events/ekin-akyurek-in-context-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://munich-nlp.github.io/events/ekin-akyurek-in-context-learning/</guid>
       <description></description>
     </item>
     
