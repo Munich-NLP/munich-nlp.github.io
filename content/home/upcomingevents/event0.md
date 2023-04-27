@@ -14,6 +14,7 @@ date = "05-16-2023"
 ### Location
 
 [JetBrains Event Space Christoph-Rapparini-Bogen 23 · München, BY](https://www.google.com/maps/search/?api=1&query=48.145863%2C%2011.505231).
+[RSVP](https://www.meetup.com/pydata-munchen/events/293039942/)
 
 
 ### About this Event
