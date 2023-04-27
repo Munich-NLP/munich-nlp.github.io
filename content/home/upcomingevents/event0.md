@@ -4,7 +4,7 @@ image = "/images/ev_pydata_nights/theme_photo.png"
 summary = "Speaker: Saahil Ognawala, PhD & Abdullatif Köksal | Apr 20, 2023 18:00-19:30"
 recording = "https://www.youtube.com/watch?v=4l7KqNqgZdg"
 url = "/events/pydata-nights"
-date = "04-20-2023"
+date = "05-16-2023"
 +++
 
 <!--more-->
