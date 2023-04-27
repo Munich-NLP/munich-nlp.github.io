@@ -1,8 +1,8 @@
 +++
 title = "PyData Nights talks from JinaAI and LMU"
 image = "/images/ev_pydata_nights/theme_photo.png"
-summary = "Speaker: Saahil Ognawala, PhD & Abdullatif Köksal | Apr 20, 2023 18:00-19:30"
-recording = "https://www.youtube.com/watch?v=4l7KqNqgZdg"
+summary = "Speaker: Saahil Ognawala, PhD & Abdullatif Köksal | May 16, 2023 18:00-19:30"
+recording = ""
 url = "/events/pydata-nights"
 date = "05-16-2023"
 +++
@@ -26,7 +26,7 @@ In this talk, we will showcase how Jina AI helps organizations cut through the A
 
 Instruction tuning enables language models to generalize more effectively and better follow user intent. However, obtaining instruction data can be costly and challenging. Prior works employ methods such as expensive human annotation, crowd-sourced datasets with alignment issues, or generating noisy examples via LLMs. We introduce the LongForm dataset, which is created by leveraging English corpus examples with augmented instructions. We select a diverse set of human-written documents from existing corpora such as C4 and Wikipedia and generate instructions for the given documents via LLMs. This approach provides a cheaper and cleaner instruction-tuning dataset and one suitable for long text generation. We finetune T5, OPT, and LLaMA models on our dataset and show that even smaller LongForm models have good generalization capabilities for text generation. Our models outperform 10x larger language models without instruction tuning on various tasks such as story/recipe generation and long-form question answering. Moreover, LongForm models outperform prior instruction-tuned models such as FLAN-T5 and Alpaca by a large margin. Finally, our models can effectively follow and answer multilingual instructions; we demonstrate this for news generation.
 
-#### Speakers
+### Speakers
 
 ![Saahil Ognawala ><](https://pbs.twimg.com/profile_images/1640989888005767170/RucvgIKR_400x400.jpg)
 
