@@ -14,7 +14,7 @@ date = "05-11-2023"
 
 ### Location
 
-[Munich🥨NLP Discord Server]([ev_special_anniversary](https://discord.gg/w3rEmjhdJJ?event=1094126404548972565)).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1094126404548972565).
 
 
 ### About this Event
