@@ -1,4 +1,5 @@
 +++
+weight=3
 title = "Reality Check: Natural Language Processing in the era of Large Language Models"
 image = "/images/ev_reality_check/theme_photo.png"
 summary = "Speaker: Vered Shwartz, PhD | May 25, 2023 18:00-19:30"
