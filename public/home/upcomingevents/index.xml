@@ -7,12 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://munich-nlp.github.io/home/upcomingevents/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Women Get-Together in NLP</title>
-      <link>https://munich-nlp.github.io/events/women-get-together-in-nlp/</link>
+      <title>Special Anniversary Edition: Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning</title>
+      <link>https://munich-nlp.github.io/events/special-anniversary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://munich-nlp.github.io/events/women-get-together-in-nlp/</guid>
+      <guid>https://munich-nlp.github.io/events/special-anniversary/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PyData Nights talks from JinaAI and LMU</title>
+      <link>https://munich-nlp.github.io/events/pydata-nights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/pydata-nights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reality Check: Natural Language Processing in the era of Large Language Models</title>
+      <link>https://munich-nlp.github.io/events/reality-check-nlp-in-the-era-of-llms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/reality-check-nlp-in-the-era-of-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenerataX MiniConference</title>
+      <link>https://munich-nlp.github.io/events/GenerataX/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/GenerataX/</guid>
+      <description>Conference | June 15, 2023 15:30-19:30</description>
     </item>
     
   </channel>

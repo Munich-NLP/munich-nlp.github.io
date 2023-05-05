@@ -17,6 +17,42 @@
     </item>
     
     <item>
+      <title>Special Anniversary Edition: Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning</title>
+      <link>https://munich-nlp.github.io/events/special-anniversary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/special-anniversary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyData Nights talks from JinaAI and LMU</title>
+      <link>https://munich-nlp.github.io/events/pydata-nights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/pydata-nights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reality Check: Natural Language Processing in the era of Large Language Models</title>
+      <link>https://munich-nlp.github.io/events/reality-check-nlp-in-the-era-of-llms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/reality-check-nlp-in-the-era-of-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenerataX MiniConference</title>
+      <link>https://munich-nlp.github.io/events/GenerataX/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/GenerataX/</guid>
+      <description>Conference | June 15, 2023 15:30-19:30</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://munich-nlp.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -32,6 +68,15 @@ Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda 
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://munich-nlp.github.io/events/measuring-political-positions-using-contextual-word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women Get-Together in NLP</title>
+      <link>https://munich-nlp.github.io/events/women-get-together-in-nlp/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/women-get-together-in-nlp/</guid>
       <description></description>
     </item>
     
@@ -347,7 +392,8 @@ Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://munich-nlp.github.io/home/subheader/</guid>
-      <description>Munich🥨NLP is a community newly founded in May 2022 by LMU and TUM students focusing on NLP topics. Our Discord community has already grown to over 900 members consisting not only of students, but also professors, and industry practitioners. We try host weekly workshops and/or paper-reading events, both to learn from guests and to gather inspiration for our own (research) projects, as well as to establish and keep going an active student NLP community in the Munich area.</description>
+      <description>Founded in May 2022 with already 1000+ people on Discord and LinkedIn. We want to promote the field of Natural Language Processing and an active exchange between students, professors, industry professionals and companies. We do online talks, discussions, demos as well as live meet-ups in Munich.
+Join our Discord community!</description>
     </item>
     
     <item>
@@ -366,15 +412,6 @@ Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda 
       
       <guid>https://munich-nlp.github.io/home/partners/download2/</guid>
       <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
-    </item>
-    
-    <item>
-      <title>Women Get-Together in NLP</title>
-      <link>https://munich-nlp.github.io/events/women-get-together-in-nlp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://munich-nlp.github.io/events/women-get-together-in-nlp/</guid>
-      <description></description>
     </item>
     
   </channel>

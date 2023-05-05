@@ -4,12 +4,20 @@
   <url>
     <loc>https://munich-nlp.github.io/home/partners/download1/</loc>
   </url><url>
+    <loc>https://munich-nlp.github.io/events/special-anniversary/</loc>
+  </url><url>
     <loc>https://munich-nlp.github.io/home/upcomingevents/</loc>
   </url><url>
     <loc>https://munich-nlp.github.io/home/pastevents/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://munich-nlp.github.io/events/pydata-nights/</loc>
+  </url><url>
     <loc>https://munich-nlp.github.io/home/partners/</loc>
+  </url><url>
+    <loc>https://munich-nlp.github.io/events/reality-check-nlp-in-the-era-of-llms/</loc>
+  </url><url>
+    <loc>https://munich-nlp.github.io/events/GenerataX/</loc>
   </url><url>
     <loc>https://munich-nlp.github.io/home/organizers/</loc>
   </url><url>
@@ -22,6 +30,9 @@
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://munich-nlp.github.io/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://munich-nlp.github.io/events/women-get-together-in-nlp/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://munich-nlp.github.io/events/misalignment-of-legal-judgement/</loc>
@@ -133,7 +144,5 @@
     <loc>https://munich-nlp.github.io/home/partners/download2/</loc>
   </url><url>
     <loc>https://munich-nlp.github.io/tags/</loc>
-  </url><url>
-    <loc>https://munich-nlp.github.io/events/women-get-together-in-nlp/</loc>
   </url>
 </urlset>
