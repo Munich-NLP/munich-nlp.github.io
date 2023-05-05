@@ -2,7 +2,7 @@
 weight=2
 title = "PyData Nights talks from JinaAI and LMU"
 image = "/images/ev_pydata_nights/theme_photo.png"
-summary = "Speaker: Saahil Ognawala, PhD & Abdullatif Köksal | May 16, 2023 18:00-19:30"
+summary = "Speaker: Saahil Ognawala, PhD & Abdullatif Köksal | May 16, 2023 18:00-22:00"
 recording = ""
 url = "/events/pydata-nights"
 date = "05-16-2023"
