@@ -3,9 +3,9 @@ weight=1
 title = "Special Anniversary Edition: Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning"
 image = "/images/ev_special_anniversary/theme_photo.png"
 summary = "Speaker: Vladislav Lialin | May 11, 2023 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=StdrAJZsmw4"
 url = "/events/special-anniversary"
-date = "05-11-2023"
+date = "2023-05-11"
 +++
 
 
@@ -13,9 +13,9 @@ date = "05-11-2023"
 
 ![Special Anniversary Edition: Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning ><](/images/ev_special_anniversary/theme_photo.png)
 
-### Location
+<!-- ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1094126404548972565).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1094126404548972565). -->
 
 
 ### About this Event
