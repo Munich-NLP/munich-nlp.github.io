@@ -12,7 +12,7 @@ date = "2023-05-16"
 
 ![PyData Nights talks from JinaAI and LMU ><](/images/ev_pydata_nights/theme_photo.png)
 
-### [**RSVP**](https://www.meetup.com/pydata-munchen/events/293039942/)
+<!-- ### [**RSVP**](https://www.meetup.com/pydata-munchen/events/293039942/) -->
 
 ### Location
 
