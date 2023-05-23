@@ -1,5 +1,4 @@
 +++
-weight=1
 title = "Special Anniversary Edition: Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning"
 image = "/images/ev_special_anniversary/theme_photo.png"
 summary = "Speaker: Vladislav Lialin | May 11, 2023 18:00-19:30"
