@@ -1,11 +1,10 @@
 +++
-weight=3
 title = "Reality Check: Natural Language Processing in the era of Large Language Models"
 image = "/images/ev_reality_check/theme_photo.png"
 summary = "Speaker: Vered Shwartz, PhD | May 25, 2023 18:00-19:30"
-recording = ""
+recording = "https://www.youtube.com/watch?v=mTQM49YkjXU"
 url = "/events/reality-check-nlp-in-the-era-of-llms"
-date = "05-25-2023"
+date = "2023-05-25"
 +++
 
 
