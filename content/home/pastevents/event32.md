@@ -11,10 +11,10 @@ date = "2023-05-25"
 <!--more-->
 
 <!-- ![Reality Check: Natural Language Processing in the era of Large Language Models ><](/images/ev_reality_check/theme_photo.png) -->
-
+<!-- 
 ### Location
 
-[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1100866104567529623).
+[Munich🥨NLP Discord Server](https://discord.gg/w3rEmjhdJJ?event=1100866104567529623). -->
 
 
 ### About this Event
