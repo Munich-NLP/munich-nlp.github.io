@@ -6,7 +6,34 @@
     <description>Recent content in Past Events on Munich NLP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://munich-nlp.github.io/home/pastevents/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://munich-nlp.github.io/home/pastevents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reality Check: Natural Language Processing in the era of Large Language Models</title>
+      <link>https://munich-nlp.github.io/events/reality-check-nlp-in-the-era-of-llms/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/reality-check-nlp-in-the-era-of-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyData Nights talks from JinaAI and LMU</title>
+      <link>https://munich-nlp.github.io/events/pydata-nights/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/pydata-nights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Anniversary Edition: Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning</title>
+      <link>https://munich-nlp.github.io/events/special-anniversary/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://munich-nlp.github.io/events/special-anniversary/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Measuring political positions using contextual word embeddings</title>
       <link>https://munich-nlp.github.io/events/measuring-political-positions-using-contextual-word-embeddings/</link>
