@@ -1,8 +1,9 @@
 +++
-name = "Maria Aysina"
-bio = "Media --> Politics and Data Science --> NLP"
-res_int = "Computational Linguistics, Applying NLP and Deep Learning techniques. Currently working on automatic text summarization in german language"
-image = "images/about_us_photos/maria.png"
-linkedin = "https://www.linkedin.com/in/maria-aysina-9829661a7/"
+name = "Marwin Härttrich"
+bio = "Maths --> CS --> Computational Linguistics --> NLP"
+res_int = "Conversational AI, NLP, ML/DL, Knowledge Representation"
+image = "images/about_us_photos/marwin.png"
+linkedin = "https://www.linkedin.com/in/marwin-h%C3%A4rttrich-8a5313238/"
 mail = "mailto:munichnlp@gmail.com"
+github = "github.com/marwinhaerttrich"
 +++
