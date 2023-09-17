@@ -1,16 +1,15 @@
 +++
-weight = 2
 title = "Online Event | DORA: Exploring Outlier Representations in Deep Neural Networks"
 image = "/images/ev_dora/theme_photo.png"
-summary = "Speaker: Kirill Bykov | Sep 28, 2023 12:00-13:00"
-url = "/events/dora-exploring-outlier-representations"
-date = "2023-09-28"
+summary = "Speaker: Saahil Ognawala, PhD & Abdullatif Köksal | Apr 20, 2023 18:00-19:30"
+recording = "https://www.youtube.com/watch?v=4l7KqNqgZdg"
+url = "/events/pydata-nights"
+date = "04-20-2023"
 +++
-
 
 <!--more-->
 
-![Online Event | DORA: ExploringOutlier Representations in Deep Neural Networks ><](/images/ev_dora/theme_photo.png)
+![Online Event | DORA: Exploring Outlier Representations in Deep Neural Networks ><](/images/ev_dora/theme_photo.png)
 
 ### Location
 
