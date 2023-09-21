@@ -8,18 +8,14 @@ date = "10-04-2023"
 +++
 
 
-![MunichNLP x PyData October Meetup](/images/ev_pydata_mucnlp_october_23/main.jpg)
+[![MunichNLP x PyData October Meetup](/images/ev_pydata_mucnlp_october_23/main.jpg)](https://www.meetup.com/pydata-munchen/events/296048004/)
+### [**RSVP**](https://www.meetup.com/pydata-munchen/events/296048004/) & [**Location**](https://maps-googleapis.meetup.com/maps/api/staticmap?center=48.157528%2C%2011.584145&zoom=17&size=480x300&format=png&scale=1&key=AIzaSyBhcQiQISkjMBwLAugJj8V78nMPfitnr44&markers=icon%3Ahttps%3A%2F%2Fsecure.meetupstatic.com%2Fnext%2Fimages%2Fevent%2Fmup-custom-google-map-pin.png%7Ccolor%3A0xF65858%7C48.157528%2C%2011.584145)
 
-### Location
-
-[Leopoldstraße 21, 80802 Munich](https://maps-googleapis.meetup.com/maps/api/staticmap?center=48.157528%2C%2011.584145&zoom=17&size=480x300&format=png&scale=1&key=AIzaSyBhcQiQISkjMBwLAugJj8V78nMPfitnr44&markers=icon%3Ahttps%3A%2F%2Fsecure.meetupstatic.com%2Fnext%2Fimages%2Fevent%2Fmup-custom-google-map-pin.png%7Ccolor%3A0xF65858%7C48.157528%2C%2011.584145).
-
-### [**RSVP**](https://www.meetup.com/pydata-munchen/events/296048004/)
 
 
 ### About this Event
 
-Hallo Münchner,
+Hallo Münchners,
 
 We would like to invite you to our October meetup with two exciting talks at a very cool location, for which we want to thank Alasco for hosting us this evening & sponsoring the refreshments.
 
@@ -47,4 +43,4 @@ Hurry up we have limited spots and see you on the other side.
 
 ![Oliver Pfaffel ><](/images/oliver-pfaffel.jpg) 
 
-[**Dr. Oliver Pfaffel**](https://www.linkedin.com/in/oliver-pfaffel/)has been working as a data scientist / NLP engineer in insurance for more than a decade. He holds a PhD in mathematical statistics (TUM, Columbia, NUS) and regularly lectures at the European Actuarial Academy and TUM. In this introductory talk, we delve into various strategies employed for question answering tailored specifically to the field of network engineering. We will cover generative solutions using large language models as well as retrieval-based techniques, which we will demonstrate using a sample StackExchange dataset. Considerations will be given to the use of private or confidential data. We will critically analyze different evaluation types, elaborating on their respective advantages and limitations. It is important to note that this presentation is grounded in a personal project and holds no affiliation to any professional activity or company.
+[**Dr. Oliver Pfaffel**](https://www.linkedin.com/in/oliver-pfaffel/) has been working as a data scientist / NLP engineer in insurance for more than a decade. He holds a PhD in mathematical statistics (TUM, Columbia, NUS) and regularly lectures at the European Actuarial Academy and TUM. In this introductory talk, we delve into various strategies employed for question answering tailored specifically to the field of network engineering. We will cover generative solutions using large language models as well as retrieval-based techniques, which we will demonstrate using a sample StackExchange dataset. Considerations will be given to the use of private or confidential data. We will critically analyze different evaluation types, elaborating on their respective advantages and limitations. It is important to note that this presentation is grounded in a personal project and holds no affiliation to any professional activity or company.
