@@ -8,4 +8,4 @@ url = "/events/GenerataX"
 date = "06-15-2023"
 +++
 
-{{<forward>}}
+{{<forward_generata>}}
