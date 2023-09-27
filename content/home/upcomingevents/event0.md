@@ -2,9 +2,9 @@
 weight = 1
 title = "Online Event | DORA: Exploring Outlier Representations in Deep Neural Networks"
 image = "/images/ev_dora/theme_photo.png"
-summary = "Speaker: Kirill Bykov | Sep 28, 2023 12:00-13:00"
+summary = "Speaker: Kirill Bykov | Sep 27, 2023 18:00-19:30"
 url = "/events/dora-exploring-outlier-representations"
-date = "09-28-2023"
+date = "09-27-2023"
 +++
 
 <!--more-->
