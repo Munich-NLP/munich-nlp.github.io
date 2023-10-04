@@ -2,7 +2,7 @@
 weight = 2
 title = "MunichNLP x PyData October Meetup"
 image = "/images/ev_pydata_mucnlp_october_23/theme_photo.jpg"
-summary = "Speaker: Chris Emezue, Dr. Oliver Pfaffel | Oct 4, 2023 18:30-21:30"
+summary = "Speaker: Chris Emezue, Dr. Oliver Pfaffel | Oct 4, 2023 18:30-22:00"
 url = "/events/pydata-x-mucnlp-october-23"
 date = "10-04-2023"
 +++
