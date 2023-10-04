@@ -1,29 +1,46 @@
 +++
-weight = 1
-title = "Online Event | DORA: Exploring Outlier Representations in Deep Neural Networks"
-image = "/images/ev_dora/theme_photo.png"
-summary = "Speaker: Kirill Bykov | Sep 27, 2023 18:00-19:30"
-url = "/events/dora-exploring-outlier-representations"
-date = "09-27-2023"
+weight = 2
+title = "MunichNLP x PyData October Meetup"
+image = "/images/ev_pydata_mucnlp_october_23/theme_photo.jpg"
+summary = "Speaker: Chris Emezue, Dr. Oliver Pfaffel | Oct 4, 2023 18:30-21:30"
+url = "/events/pydata-x-mucnlp-october-23"
+date = "10-04-2023"
 +++
 
-<!--more-->
 
-![Online Event | DORA: Exploring Outlier Representations in Deep Neural Networks ><](/images/ev_dora/theme_photo.png)
+[![MunichNLP x PyData October Meetup](/images/ev_pydata_mucnlp_october_23/main.jpg)](https://www.meetup.com/pydata-munchen/events/296048004/)
+### [**RSVP**](https://www.meetup.com/pydata-munchen/events/296048004/) & [**Location**](https://maps-googleapis.meetup.com/maps/api/staticmap?center=48.157528%2C%2011.584145&zoom=17&size=480x300&format=png&scale=1&key=AIzaSyBhcQiQISkjMBwLAugJj8V78nMPfitnr44&markers=icon%3Ahttps%3A%2F%2Fsecure.meetupstatic.com%2Fnext%2Fimages%2Fevent%2Fmup-custom-google-map-pin.png%7Ccolor%3A0xF65858%7C48.157528%2C%2011.584145)
 
-### Location
-
-[Munich🥨NLP Discord Server](https://discord.gg/yQvKUQQsf3?event=1149409478022807675).
 
 
 ### About this Event
 
-Deep Neural Networks (DNNs) draw their power from the representations they learn. In recent years, however, researchers have found that DNNs, while being incredibly effective in learning complex abstractions, also tend to be infected with artifacts, such as biases, Clever Hanses (CH), or Backdoors, due to spurious correlations inherent in the training data. So far, existing methods for uncovering such artifactual and malicious behavior in trained models focus on finding artifacts in the input data, which requires both availabilities of a data set and human intervention. In this paper, we introduce DORA (Data-agnOstic Representation Analysis): the first automatic data-agnostic method for the detection of potentially infected representations in Deep Neural Networks. We further show that contaminated representations found by DORA can be used to detect infected samples in any given dataset. We qualitatively and quantitatively evaluate the performance of our proposed method in both, controlled toy scenarios, and in real-world settings, where we demonstrate the benefit of DORA in safety-critical applications.
+Hallo Münchners,
+
+We would like to invite you to our October meetup with two exciting talks at a very cool location, for which we want to thank Alasco for hosting us this evening & sponsoring the refreshments.
+
+This event is brought to you in collaboration with the MunichNLP community. Join their Discord to discuss the latest developments and also stimulate exchange on research and innovation around NLP.
+Hurry up we have limited spots and see you on the other side.
+
+
+### Agenda
+
+- 6:30pm Door opening, pizza arrives, drinks, casual welcoming
+- 7:00pm Quick Introduction - 3min (MunichNLP) + 2 mins welcome words from Alasco
+- 7:05pm Lanfrica: Tackling the deep-rooted AI challenges in the Global majority + Q&A by Chris Emezue
+- 7:50 pm Break
+- 8:00pm Approaches to Question Answering in Network Engineering + Q&A by Dr. Oliver Pfaffel
+- 8:30pm Break
+- 9:00pm Food and Drinks + Networking
+- 9:55pm Event conclusion
+
 
 ### Speaker
 
-![Kirill Bykov ><](https://www.atb-potsdam.de/fileadmin/_processed_/4/5/csm_1900-64a3cf253181d_075d9305f4.png)
+![Chris Emezue ><](https://media.licdn.com/dms/image/C5603AQEBCaYpwagcWQ/profile-displayphoto-shrink_200_200/0/1588976757668?e=1700697600&v=beta&t=SOWkuwHDxhrKPJZB_4tMEy6zR3_Cwgv2e10UoZwaG2Y)
 
-[**Kirill Bykov**](https://www.atb-potsdam.de/de/ueber-uns/team/mitarbeiter/person/kirill-bykov) is a doctoral student in Machine Learning at the Technische Universität Berlin and ATB, with a focus on Interpretable and Explainable AI. When asked about his work, He likes to answer that he investigates the vivid diversity of the internal abstractions and representations learned by machines to understand how they perceive the world.
+[**Chris Emezue**](https://www.linkedin.com/in/chrisemezue/) is a seasoned researcher committed to developing intelligent systems that can learn even in low-resource scenarios, and are reliable. His research areas are natural language processing, causality, and reinforcement learning. As a dedicated contributor to the field of AfricaNLP, he has worked on several key projects to improve the representation of low-resource African language technologies and datasets. Furthermore, as an entrepreneur, Chris is building Lanfrica, a startup that aims to accelerate the development of AI applications in under-represented regions.
 
-Apart from academia, He is also am a passionate photographer (only if he had more time to do that), an ardent reader and I am aroused by writing.
+![Oliver Pfaffel ><](/images/oliver-pfaffel.jpg) 
+
+[**Dr. Oliver Pfaffel**](https://www.linkedin.com/in/oliver-pfaffel/) has been working as a data scientist / NLP engineer in insurance for more than a decade. He holds a PhD in mathematical statistics (TUM, Columbia, NUS) and regularly lectures at the European Actuarial Academy and TUM. In this introductory talk, we delve into various strategies employed for question answering tailored specifically to the field of network engineering. We will cover generative solutions using large language models as well as retrieval-based techniques, which we will demonstrate using a sample StackExchange dataset. Considerations will be given to the use of private or confidential data. We will critically analyze different evaluation types, elaborating on their respective advantages and limitations. It is important to note that this presentation is grounded in a personal project and holds no affiliation to any professional activity or company.
