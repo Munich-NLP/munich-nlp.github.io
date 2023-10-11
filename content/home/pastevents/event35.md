@@ -3,10 +3,14 @@ weight=1
 title = "MunichNLP x PyData October Meetup"
 image = "/images/ev_pydata_mucnlp_october_23/theme_photo.jpg"
 summary = "Speaker: Chris Emezue, Dr. Oliver Pfaffel | Oct 4, 2023 18:30-22:00"
-recording = ""
+recording = "https://youtu.be/RrRAPuW9pPQ"
 url = "/events/pydata-x-mucnlp-october-23"
 date = "2023-10-04"
 +++
+
+{{< youtube RrRAPuW9pPQ >}}
+
+{{< youtube mbiJlORaZvU >}}
 
 
 <!-- [![MunichNLP x PyData October Meetup](/images/ev_pydata_mucnlp_october_23/main.jpg)](https://www.meetup.com/pydata-munchen/events/296048004/)
