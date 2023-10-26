@@ -2,7 +2,7 @@
 weight = 3
 title = "NVIDIA x Munich NLP November Meetup"
 image = "/images/nvidia-x-mucnlp-november-23-meetup/theme_photo.png"
-summary = "Speaker:  | Nov 15, 2023 18:30-22:00"
+summary = "Speakers: Olya Kozlova, Michael Feil, Egor Labintcev | Nov 15, 2023 18:30-22:00"
 url = "/events/nvidia-x-mucnlp-november-23-meetup"
 date = "11-15-2023"
 +++
