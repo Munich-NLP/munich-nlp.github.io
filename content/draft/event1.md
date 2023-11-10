@@ -1,18 +1,15 @@
 +++
-weight = 3
-title = "Language Models for Protein Data: Evolutionary Scale Modeling"
-image = "/images/language-models-for-protein-data/theme_photo.png"
-summary = "Speaker: Amelie Schreiber | Dec 12, 2023 18:00-19:00"
-url = "/"
-date = "12-12-2023"
+weight = 2
+title = "January Meetup"
+image = ""
+summary = "Speakers: Andreas Stephan, Jakob Klement, Luca Mülln | Jan 16, 2024"
+url = "/events/protein_lms"
+date = "16-01-2024"
 +++
 
-<!--
-### Location
+### RSVP
 
-[tba]()
-
-### [**RSVP**]()
+This event will be held via Zoom. A link follows soon.
 
 
 ### About this Event
@@ -20,15 +17,7 @@ date = "12-12-2023"
 tba
 
 
-### Agenda
-
- - tba
-
-
 ### Speakers
 
-![Amelie Schreiber ><]() 
+tba
 
-[**Amelie Schreiber**]() 
-Vestibulum lacinia neque tellus, nec viverra ipsum consequat et. Curabitur ac sollicitudin nunc, ac sollicitudin elit. Nunc feugiat, augue ut commodo semper, quam magna imperdiet nunc, non blandit urna dolor a mi. Pellentesque lectus justo, vulputate sed lacinia ac, condimentum vitae diam. Vestibulum id consectetur turpis. Mauris bibendum orci in vulputate hendrerit. Etiam sollicitudin, nulla sed tincidunt dapibus, nunc erat posuere tellus, eget aliquet quam massa sit amet quam. Vivamus a est sit amet urna bibendum sollicitudin non vitae nisi.
--->
