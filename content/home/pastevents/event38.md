@@ -1,10 +1,9 @@
 +++
-weight = 2
 title = "Language Models for Protein Data: Evolutionary Scale Modeling"
 image = "/images/ev_protein_lms/theme_photo.png"
 summary = "Speaker: Amelie Schreiber | Dec 12, 2023 18:00-19:00"
 url = "/events/protein_lms"
-date = "12-12-2023"
+date = "2023-12-12"
 +++
 
 
