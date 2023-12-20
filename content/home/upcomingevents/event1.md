@@ -1,7 +1,7 @@
 +++
 weight = 1
 title = "January Meetup"
-image = ""
+image = "/images/ev_jan_meetup/theme_photo.png"
 summary = "Speakers: Andreas Stephan, Jakob Klement, Luca Mülln | Jan 16, 2024 18:00-21:00"
 url = "/events/jan-meetup"
 date = "16-01-2024"
@@ -17,7 +17,16 @@ date = "16-01-2024"
 
 
 ### About this Event
-tbd
+We present our January Meetup in collaboration with Le Wagon at their Munich offices
+
+#### Different Apporaches for Image Captioning
+Image clustering divides a collection of images into “meaningful groups”, typically interpreted post-hoc via human-given annotations. Those are usually in the form of text, begging the question of using text as an abstraction for image clustering. In this work, we introduce Text-Guided Image Clustering, where we generate text using image-to-text models and subsequently explore the use of generated text for clustering and cluster explainability.
+
+
+#### LLMs to Business
+We discuss how GenAI models are being used on a large scale in real production scenarios at major corporations. We demonstrate how challenges within companies can be addressed using GenAI, ranging from customer feedback analysis to smart entity extraction.
+
+The talk is provided by CONVALID Analytics, the data and AI subsidiary of SMP Strategy Consulting. CONVALID Analytics consults large mid-sized and DAX-listed companies in the field of advanced analytics and generative AI. In doing so, CONVALID Analytics leverages research findings and implements them directly in companies to create real business value.
 
 
 ### Agenda
@@ -25,15 +34,6 @@ tbd
 - 19:00 - 19:30 Talk Different Apporaches for Image Captioning
 - 19:30 - 20:00 Talk LLMs to Business 
 - 20:00 - 21:00 Networking 
-
-### Different Apporaches for Image Captioning
-Image clustering divides a collection of images into “meaningful groups”, typically interpreted post-hoc via human-given annotations. Those are usually in the form of text, begging the question of using text as an abstraction for image clustering. In this work, we introduce Text-Guided Image Clustering, where we generate text using image-to-text models and subsequently explore the use of generated text for clustering and cluster explainability.
-
-
-### LLMs to Business
-We discuss how GenAI models are being used on a large scale in real production scenarios at major corporations. We demonstrate how challenges within companies can be addressed using GenAI, ranging from customer feedback analysis to smart entity extraction.
-
-The talk is provided by CONVALID Analytics, the data and AI subsidiary of SMP Strategy Consulting. CONVALID Analytics consults large mid-sized and DAX-listed companies in the field of advanced analytics and generative AI. In doing so, CONVALID Analytics leverages research findings and implements them directly in companies to create real business value.
 
 
 ### Speakers
