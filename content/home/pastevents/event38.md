@@ -2,14 +2,13 @@
 title = "Language Models for Protein Data: Evolutionary Scale Modeling"
 image = "/images/ev_protein_lms/theme_photo.png"
 summary = "Speaker: Amelie Schreiber | Dec 12, 2023 18:00-19:00"
+recording = "https://www.youtube.com/watch?v=XAExm-G4QBc"
 url = "/events/protein_lms"
 date = "2023-12-12"
 +++
 
 
-### Zoom Link
-
-This event will be held via Zoom. A link follows soon.
+{{< youtube "XAExm-G4QBc" >}}
 
 
 ### About this Event
