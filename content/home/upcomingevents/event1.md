@@ -19,7 +19,7 @@ date = "16-01-2024"
 ### About this Event
 We present our January Meetup in collaboration with Le Wagon at their Munich offices
 
-#### Different Apporaches for Image Captioning
+#### Improving Image Captioning Through Clustering Approaches
 Image clustering divides a collection of images into “meaningful groups”, typically interpreted post-hoc via human-given annotations. Those are usually in the form of text, begging the question of using text as an abstraction for image clustering. In this work, we introduce Text-Guided Image Clustering, where we generate text using image-to-text models and subsequently explore the use of generated text for clustering and cluster explainability.
 
 
@@ -31,7 +31,7 @@ The talk is provided by CONVALID Analytics, the data and AI subsidiary of SMP St
 
 ### Agenda
 - 18:00 - 19:00 Welcome to LeWagon
-- 19:00 - 19:30 Talk Different Apporaches for Image Captioning
+- 19:00 - 19:30 Talk Improving Image Captioning Through Clustering Approaches
 - 19:30 - 20:00 Talk LLMs to Business 
 - 20:00 - 21:00 Networking 
 
