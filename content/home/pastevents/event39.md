@@ -1,10 +1,9 @@
 +++
-weight = 1
 title = "January Meetup"
 image = "/images/ev_jan_meetup/theme_photo.png"
 summary = "Speakers: Andreas Stephan, Jakob Klement, Luca Mülln | Jan 16, 2024 18:00-21:00"
 url = "/events/jan-meetup"
-date = "16-01-2024"
+date = "2024-01-16"
 +++
 
 ### [RSVP](https://www.eventbrite.de/e/tech-talk-like-syntax-try-coding-in-collaboration-with-munich-nlp-tickets-761270379197?aff=MunichNLPMeetup)
