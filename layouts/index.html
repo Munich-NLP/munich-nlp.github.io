@@ -10,10 +10,9 @@
         {{ range .Site.Sections }}
             {{ range .Sections.ByWeight }}
                 {{ $stype := .Type}}
-                {{ if (or (and (eq $stype "upcomingevents") (.Site.Params.showUpcomingEvents))
-                          (and (eq $stype "pastevents") (.Site.Params.showPastEvents))
-                          (and (eq $stype "partners") (.Site.Params.showPartners))
-                          (and (eq $stype "organizers") (.Site.Params.showOrganizers))
+
+                {{ if (or (and (eq $stype "events") (gt (len .Data.Pages) 0))
+                          (and (eq $stype "organizers") (gt (len .Data.Pages) 0))
                           (eq $stype "single")) }}
                      <div id="{{ .Params.id }}"></div>
                      <div class="row section featured topspace">
@@ -21,14 +20,8 @@
                          <span>{{.Title}}</span>
                        </h2>
                        
-                     {{ if eq $stype "upcomingevents" }}
-                       {{ partial "home/upcomingevents.html" . }}
-
-                     {{ else if eq $stype "pastevents" }}
-                       {{ partial "home/pastevents.html" . }}
-
-                     {{ else if eq $stype "partners" }}
-                       {{ partial "home/partners.html" . }}
+                     {{ if eq $stype "events" }}
+                       {{ partial "home/events.html" . }}
 
                      {{ else if eq $stype "organizers" }}
                        {{ partial "home/organizers.html" . }}

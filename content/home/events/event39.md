@@ -1,10 +1,9 @@
 +++
-weight = 1
 title = "January Meetup"
 image = "/images/ev_jan_meetup/theme_photo.png"
 summary = "Speakers: Andreas Stephan, Jakob Klement, Luca Mülln | Jan 16, 2024 18:00-21:00"
 url = "/events/jan-meetup"
-date = "16-01-2024"
+date = "2024-01-16"
 +++
 
 ### [RSVP](https://www.eventbrite.de/e/tech-talk-like-syntax-try-coding-in-collaboration-with-munich-nlp-tickets-761270379197?aff=MunichNLPMeetup)
@@ -55,5 +54,3 @@ He significantly contributed to the first productive GPT project in one of Germa
 
 [**Luca Mülln**](https://www.linkedin.com/in/luca-m%C3%BClln-ba3031223/) 
 is the Lead Data Scientist at Convalid Analytics and has experience in implementing Data Science and Machine Learning projects across multiple economic sectors, including Energy, Telecommunications, and Insurance. With a background in research on Explainable AI and Natural Language Processing, his focus is on applying technology to businesses and creating value therein. He works and lives in Munich.
-
-

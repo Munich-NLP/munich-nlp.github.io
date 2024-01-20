@@ -1,6 +1,6 @@
 +++
 title = "Upcoming Events"
-type = "upcomingevents"
+type = "events"
 weight = 1
 id = "upcomingevents"
 +++
