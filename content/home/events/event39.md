@@ -54,5 +54,3 @@ He significantly contributed to the first productive GPT project in one of Germa
 
 [**Luca Mülln**](https://www.linkedin.com/in/luca-m%C3%BClln-ba3031223/) 
 is the Lead Data Scientist at Convalid Analytics and has experience in implementing Data Science and Machine Learning projects across multiple economic sectors, including Energy, Telecommunications, and Insurance. With a background in research on Explainable AI and Natural Language Processing, his focus is on applying technology to businesses and creating value therein. He works and lives in Munich.
-
-

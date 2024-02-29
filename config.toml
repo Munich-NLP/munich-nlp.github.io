@@ -19,9 +19,7 @@ theme = "hugo-initio"
     author = ""
 
     showSubheader = true
-    showUpcomingEvents = true
-    showPastEvents = true
-    showPartners = false
+    showEvents = true
     showOrganizers = true
 
     showFooterContact = false
@@ -41,10 +39,6 @@ theme = "hugo-initio"
     name = "Past events"
     url = "/#pastevents"
     weight = 9
-[[menu.main]]
-    name = "Partners"
-    url = "/#partners"
-    weight = 13
 [[menu.main]]
     name = "Organizers"
     url = "/#organizers"
