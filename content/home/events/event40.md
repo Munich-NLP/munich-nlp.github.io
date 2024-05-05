@@ -3,12 +3,11 @@ title = "April Meetup"
 image = "/images/ev_april24_meetup/theme_photo.png"
 summary = "Speakers: Andrey Cheptsov, Cornelia Gruber, Mihir Mahajan and Franz Srambical | Apr 11, 2024 18:00-22:00"
 url = "/events/april24-meetup"
+recording = "https://www.youtube.com/watch?v=5AOCRF48YE8"
 date = "2024-04-11"
 +++
 
-### [RSVP](https://www.meetup.com/pydata-munchen/events/300083533/)
-
-<!-- ![Agenda ><](/images/ev_april24_meetup/agenda_apr24_meetup.png) -->
+{{< youtube "5AOCRF48YE8" >}}
 
 
 ### Location
@@ -17,7 +16,6 @@ date = "2024-04-11"
 [Landsberger Str. 110, 80339 Munich](https://www.google.com/maps/search/?api=1&query=48.140602%2C%2011.53507)
 
 4th floor
-
 
 #### Accessing GPUs From Multiple Providers With dstack Sky
 dstack is an open-source tool designed for managing AI infrastructure across various cloud platforms. It's lighter and more specifically geared towards AI tasks compared to Kubernetes.
