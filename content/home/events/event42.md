@@ -54,4 +54,4 @@ about his work on including linguistic artifacts at tokenization level.
 
 ![Diego Miguel Lozano ><](https://media.licdn.com/dms/image/D4E03AQGmV6BFTb5sgA/profile-displayphoto-shrink_200_200/0/1712913550982?e=1723075200&v=beta&t=WyhA7k_d84EMjuhFxkFAxIUfmZa3AkEaeSkTT58drCM)
 
-[**Diego Miguel Lozano**](https://www.linkedin.com/in/diegomiguelloz/)  – has been a NLP Engineer at KNOWRON since the early days. He is also about to complete his MSc. Informatics at TUM, with focus on NLP.
+[**Diego Miguel Lozano**](https://www.linkedin.com/in/diegomiguelloz/) has been a NLP Engineer at KNOWRON since the early days. He is also about to complete his MSc. Informatics at TUM, with focus on NLP.
