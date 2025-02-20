@@ -1,6 +1,6 @@
 {{ define "main"}}
   <main id="main">
-
+    <meta http-equiv="refresh" content="0; url={{ .Site.Params.redirectUrl }}">
     <div class="container">
       <div id="{{ .Params.id }}"></div>
       {{ if .Site.Params.showSubheader }}

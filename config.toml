@@ -18,6 +18,8 @@ theme = "hugo-initio"
     DateForm = ""
     author = ""
 
+    redirectUrl = "https://www.munich-nlp.com/"
+
     showSubheader = true
     showEvents = true
     showOrganizers = true
