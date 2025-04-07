@@ -4,6 +4,7 @@
     {{ if .Site.Params.production }}
       <meta http-equiv="refresh" content="0; url={{ .Site.Params.redirectUrl }}">
     {{ end }}
+    <!--
     <div class="container">
       <div id="{{ .Params.id }}"></div>
       {{ if .Site.Params.showSubheader }}
@@ -33,11 +34,11 @@
                        {{ partial "home/single.html" . }}
 
                      {{ end }}
-                </div>	<!-- /section -->
+                </div>
               {{ end }}
             {{ end }}
         {{ end }}
-    </div>	<!-- /container -->
+    </div>  -->
   </main>
 
 {{ end }}
